@@ -1,0 +1,112 @@
+---
+layout: page
+title: "Love under Will"
+permalink: /love-under-will/
+---
+
+<style>
+.lwrp.link-whisper-related-posts{
+            
+            margin-top: 40px;
+margin-bottom: 30px;
+        }
+        .lwrp .lwrp-title{
+            
+            
+        }.lwrp .lwrp-description{
+            
+            
+
+        }
+        .lwrp .lwrp-list-container{
+        }
+        .lwrp .lwrp-list-multi-container{
+            display: flex;
+        }
+        .lwrp .lwrp-list-double{
+            width: 48%;
+        }
+        .lwrp .lwrp-list-triple{
+            width: 32%;
+        }
+        .lwrp .lwrp-list-row-container{
+            display: flex;
+            justify-content: space-between;
+        }
+        .lwrp .lwrp-list-row-container .lwrp-list-item{
+            width: calc(25% - 20px);
+        }
+        .lwrp .lwrp-list-item:not(.lwrp-no-posts-message-item){
+            
+            max-width: 150px;
+        }
+        .lwrp .lwrp-list-item img{
+            max-width: 100%;
+            height: auto;
+            object-fit: cover;
+            aspect-ratio: 1 / 1;
+        }
+        .lwrp .lwrp-list-item.lwrp-empty-list-item{
+            background: initial !important;
+        }
+        .lwrp .lwrp-list-item .lwrp-list-link .lwrp-list-link-title-text,
+        .lwrp .lwrp-list-item .lwrp-list-no-posts-message{
+            
+            
+            
+            
+        }@media screen and (max-width: 480px) {
+            .lwrp.link-whisper-related-posts{
+                
+                
+            }
+            .lwrp .lwrp-title{
+                
+                
+            }.lwrp .lwrp-description{
+                
+                
+            }
+            .lwrp .lwrp-list-multi-container{
+                flex-direction: column;
+            }
+            .lwrp .lwrp-list-multi-container ul.lwrp-list{
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
+            .lwrp .lwrp-list-double,
+            .lwrp .lwrp-list-triple{
+                width: 100%;
+            }
+            .lwrp .lwrp-list-row-container{
+                justify-content: initial;
+                flex-direction: column;
+            }
+            .lwrp .lwrp-list-row-container .lwrp-list-item{
+                width: 100%;
+            }
+            .lwrp .lwrp-list-item:not(.lwrp-no-posts-message-item){
+                
+                max-width: initial;
+            }
+            .lwrp .lwrp-list-item .lwrp-list-link .lwrp-list-link-title-text,
+            .lwrp .lwrp-list-item .lwrp-list-no-posts-message{
+                
+                
+                
+                
+            };
+        }</style>
+<div id="link-whisper-related-posts-widget" class="link-whisper-related-posts lwrp">
+            <h3 class="lwrp-title">Related Posts</h3>    
+        <div class="lwrp-list-container">
+                                            <div class="lwrp-list-multi-container">
+                    <ul class="lwrp-list lwrp-list-double lwrp-list-left">
+                        <li class="lwrp-list-item"><a href="/esoteric-satanism/" class="lwrp-list-link"><img loading="lazy" width="275" height="183" src="/assets/images/uploads/images.webp?fit=275%2C183&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="0d1676" style="--dominant-color: #0d1676;" /><br><span class="lwrp-list-link-title-text">Esoteric Satanism: The Temple of Set</span></a></li><li class="lwrp-list-item"><a href="/the-crucifucks-2/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">The Crucifucks</span></a></li><li class="lwrp-list-item"><a href="/" class="lwrp-list-link"><img loading="lazy" width="480" height="225" src="/assets/images/uploads/cropped-Technoshaman-cats-opt-1.gif?fit=480%2C225&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="Technoshamanism Kitties" data-has-transparency="false" data-dominant-color="5c6b50" style="--dominant-color: #5c6b50;" /><br><span class="lwrp-list-link-title-text">Front</span></a></li><li class="lwrp-list-item"><a href="/ars-goetia/" class="lwrp-list-link"><img loading="lazy" width="480" height="160" src="/assets/images/uploads/ars-goetia.gif?fit=480%2C160&ssl=1" class="attachment-480x480 size-480x480 has-transparency wp-post-image" alt="ars goetia" data-has-transparency="true" data-dominant-color="6f6752" style="--dominant-color: #6f6752;" /><br><span class="lwrp-list-link-title-text">The Ars Goetia: Exploring the Hierarchical Politics of Hell</span></a></li>                    </ul>
+                    <ul class="lwrp-list lwrp-list-double lwrp-list-right">
+                        <li class="lwrp-list-item"><a href="/unveiling-the-mysteries-the-history-of-ghost-and-their-occult-metal-legacy/" class="lwrp-list-link"><img loading="lazy" width="480" height="271" src="/assets/images/uploads/ghost.jpg?fit=480%2C271&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="ghost the band" data-has-transparency="false" data-dominant-color="3d4337" style="--dominant-color: #3d4337;" /><br><span class="lwrp-list-link-title-text">The History of Ghost and Their Occult Metal Legacy</span></a></li><li class="lwrp-list-item"><a href="/thelema-eastern-and-western-individualism/" class="lwrp-list-link"><img loading="lazy" width="480" height="360" src="/assets/images/uploads/image.png?fit=480%2C360&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="5d3211" style="--dominant-color: #5d3211;" /><br><span class="lwrp-list-link-title-text">Thelema: Bridging Eastern Philosophy and Western Morality</span></a></li><li class="lwrp-list-item"><a href="/an-homage-to-no-reason/privacy-policy/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/Privacy-Policy.webp?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="666d7a" style="--dominant-color: #666d7a;" /><br><span class="lwrp-list-link-title-text">Privacy Policy</span></a></li><li class="lwrp-list-item"><a href="/guardian-angel/" class="lwrp-list-link"><img loading="lazy" width="300" height="168" src="/assets/images/uploads/images28129.jpeg?fit=300%2C168&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="c0c0c0" style="--dominant-color: #c0c0c0;" /><br><span class="lwrp-list-link-title-text"> Aleister Crowley&#8217;s Insights Into the Holy Guardian Angels</span></a></li>                    </ul>
+                </div>
+                        </div>
+</div>

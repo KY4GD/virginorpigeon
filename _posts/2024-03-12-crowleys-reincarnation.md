@@ -1,0 +1,181 @@
+---
+layout: post
+title: "Discussion of Aleister Crowley&#8217;s Past Lives"
+date: 2024-03-12
+slug: crowleys-reincarnation
+categories: [magick, thelema]
+tags: [magick]
+excerpt: "Aleister Crowley, the enigmatic figure behind the philosophy of Thelema, held a complex and controversial belief regarding his own identity and spiritual lineage. Throughout his life, Crowley claimed "
+---
+
+<p class="has-text-align-left">Aleister Crowley, the enigmatic figure behind the philosophy of Thelema, held a complex and controversial belief regarding his own identity and spiritual lineage. Throughout his life, Crowley claimed to be the reincarnation of various historical and mythical figures, often attributing his connection to them as a source of spiritual authority and inspiration. Let&#8217;s explore Crowley&#8217;s beliefs about his alleged past lives and their significance within his spiritual framework.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-1-the-pharaoh-akhenaten">1. The Pharaoh Akhenaten</h2>
+
+
+
+<p class="has-text-align-left"><br>One of <a href="/crowleys-influence/" target="_blank" rel="noopener" data-wpil-monitor-id="90">Crowley&#8217;s</a> most significant claims was that he believed himself to be the reincarnation of the Egyptian pharaoh Akhenaten. Akhenaten was known for his radical religious reforms, including the promotion of monotheism centered around the worship of the sun-disk Aten. Crowley saw himself as continuing Akhenaten&#8217;s work of unveiling hidden truths and initiating a spiritual revolution.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-2-edward-kelly-and-eliphas-levi">2. Edward Kelly and Eliphas Levi</h2>
+
+
+
+<p><br>Crowley also believed himself to be the reincarnation of Edward Kelly, a 16th-century occultist and alchemist known for his collaborations with John Dee. Additionally, he claimed to be the reincarnation of Eliphas Levi, a renowned French occultist and writer. These figures represented the esoteric traditions and magical practices that Crowley sought to embody and advance in his own work.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-3-historical-figures-and-mythological-entities-of-crowley-s-reincarnation">3. Historical Figures and Mythological Entities of Crowley&#8217;s Reincarnation</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/crowleypast3.jpeg?resize=1024%2C1024&ssl=1" alt="" class="wp-image-10833" style="width:257px;height:auto" /></figure>
+</div>
+
+
+<p><br>In addition to specific individuals, Crowley identified himself with various historical and mythological entities. He claimed connections to figures such as Cagliostro, an 18th-century occultist, and Count of St. Germain, an enigmatic character associated with esoteric knowledge and immortality. Crowley also saw himself as embodying the archetype of the &#8220;Great Beast&#8221; mentioned in the Book of Revelation.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-4-symbolic-significance">4. Symbolic Significance</h2>
+
+
+
+<p><br>For Crowley, these beliefs in his reincarnated identities held symbolic significance within the framework of <a href="/preparing-for-the-ruby-star-ritual-tools-techniques-and-breathwork-for-beginners/" target="_blank" rel="noopener" data-wpil-monitor-id="186">Thelema</a>. They provided him with a sense of spiritual continuity and historical significance, linking his present mission with the achievements and wisdom of the past. It reinforced his role as a prophet and teacher, guiding others along the path of spiritual awakening and self-discovery.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/crowleypast1.jpeg?resize=1024%2C1024&ssl=1" alt="" class="wp-image-10834" style="width:238px;height:auto" /></figure>
+</div>
+
+
+<h2 class="wp-block-heading" id="h-5-interpretation-and-controversy">5. Interpretation and Controversy</h2>
+
+
+
+<p><br>It is important to note that Crowley&#8217;s claims of being the reincarnation of historical and mythical figures are a matter of personal belief and interpretation. They have been met with skepticism and controversy both during his lifetime and in subsequent discussions about his work. While some followers of Crowley&#8217;s teachings accept his claims, others view them as symbolic rather than literal representations of his spiritual lineage.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-6-the-influence-on-thelema">6. The Influence on Thelema</h2>
+
+
+
+<p><br>Crowley&#8217;s belief in his reincarnated identities has influenced the development and <a href="/how-to-perform-the-ruby-star-ritual-a-practical-guide/" target="_blank" rel="noopener" data-wpil-monitor-id="124">practices within Thelema</a>. It has contributed to the mystique surrounding his persona and added layers of symbolism and mythos to Thelemic <a href="/ruby-star-ritual/" target="_blank" rel="noopener" data-wpil-monitor-id="158">rituals</a> and doctrines. However, it is <a href="/the-names-in-the-ruby-star-ritual-importance-and-practical-focus/" target="_blank" rel="noopener" data-wpil-monitor-id="173">important to recognize that Thelema</a> encompasses a broader philosophical framework that extends beyond Crowley&#8217;s individual claims and experiences.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-conclusion">Conclusion</h2>
+
+
+
+<p>Aleister Crowley&#8217;s belief in his reincarnated identities played a significant role in his spiritual journey and the development of Thelema. Whether viewed as literal or symbolic, these claims provided Crowley with a sense of historical connection, authority, and inspiration. While the controversy and skepticism surrounding these beliefs persist, their influence on Crowley&#8217;s teachings and the subsequent evolution of Thelema cannot be overlooked.</p>
+<style>
+.lwrp.link-whisper-related-posts{
+            
+            margin-top: 40px;
+margin-bottom: 30px;
+        }
+        .lwrp .lwrp-title{
+            
+            
+        }.lwrp .lwrp-description{
+            
+            
+
+        }
+        .lwrp .lwrp-list-container{
+        }
+        .lwrp .lwrp-list-multi-container{
+            display: flex;
+        }
+        .lwrp .lwrp-list-double{
+            width: 48%;
+        }
+        .lwrp .lwrp-list-triple{
+            width: 32%;
+        }
+        .lwrp .lwrp-list-row-container{
+            display: flex;
+            justify-content: space-between;
+        }
+        .lwrp .lwrp-list-row-container .lwrp-list-item{
+            width: calc(25% - 20px);
+        }
+        .lwrp .lwrp-list-item:not(.lwrp-no-posts-message-item){
+            
+            max-width: 150px;
+        }
+        .lwrp .lwrp-list-item img{
+            max-width: 100%;
+            height: auto;
+            object-fit: cover;
+            aspect-ratio: 1 / 1;
+        }
+        .lwrp .lwrp-list-item.lwrp-empty-list-item{
+            background: initial !important;
+        }
+        .lwrp .lwrp-list-item .lwrp-list-link .lwrp-list-link-title-text,
+        .lwrp .lwrp-list-item .lwrp-list-no-posts-message{
+            
+            
+            
+            
+        }@media screen and (max-width: 480px) {
+            .lwrp.link-whisper-related-posts{
+                
+                
+            }
+            .lwrp .lwrp-title{
+                
+                
+            }.lwrp .lwrp-description{
+                
+                
+            }
+            .lwrp .lwrp-list-multi-container{
+                flex-direction: column;
+            }
+            .lwrp .lwrp-list-multi-container ul.lwrp-list{
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
+            .lwrp .lwrp-list-double,
+            .lwrp .lwrp-list-triple{
+                width: 100%;
+            }
+            .lwrp .lwrp-list-row-container{
+                justify-content: initial;
+                flex-direction: column;
+            }
+            .lwrp .lwrp-list-row-container .lwrp-list-item{
+                width: 100%;
+            }
+            .lwrp .lwrp-list-item:not(.lwrp-no-posts-message-item){
+                
+                max-width: initial;
+            }
+            .lwrp .lwrp-list-item .lwrp-list-link .lwrp-list-link-title-text,
+            .lwrp .lwrp-list-item .lwrp-list-no-posts-message{
+                
+                
+                
+                
+            };
+        }</style>
+<div id="link-whisper-related-posts-widget" class="link-whisper-related-posts lwrp">
+            <h3 class="lwrp-title">Related Posts</h3>    
+        <div class="lwrp-list-container">
+                                            <div class="lwrp-list-multi-container">
+                    <ul class="lwrp-list lwrp-list-double lwrp-list-left">
+                        <li class="lwrp-list-item"><a href="/dark-ambient-music/" class="lwrp-list-link"><img loading="lazy" width="298" height="148" src="/assets/images/uploads/coil-band.webp?fit=298%2C148&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="Dark Ambient Music" data-has-transparency="false" data-dominant-color="847f7f" style="--dominant-color: #847f7f;" /><br><span class="lwrp-list-link-title-text">Exploring the Sensory Realms of ASMR, Frissons, and Dark Ambient Music</span></a></li><li class="lwrp-list-item"><a href="/music-video/copernicus/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Copernicus</span></a></li><li class="lwrp-list-item"><a href="/lrh_scumbag/" class="lwrp-list-link"><img loading="lazy" width="429" height="480" src="/assets/images/uploads/scientology-for-profit-500x560-1.jpg?fit=429%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="6a6a6a" style="--dominant-color: #6a6a6a;" /><br><span class="lwrp-list-link-title-text">The History of L. Ron Hubbard, Aleister Crowley, Jack Parsons, and  Marjorie Cameron</span></a></li><li class="lwrp-list-item"><a href="/parody-religions/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/parody-religions.webp?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="parody religions" data-has-transparency="false" data-dominant-color="5d6980" style="--dominant-color: #5d6980;" /><br><span class="lwrp-list-link-title-text">The Power of Parody Religions: Finding Kinship and Healing Through Satire</span></a></li>                    </ul>
+                    <ul class="lwrp-list lwrp-list-double lwrp-list-right">
+                        <li class="lwrp-list-item"><a href="/title-understanding-the-operating-thetan-levels-of-scientology/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Title: Understanding the Operating Thetan Levels of Scientology</span></a></li><li class="lwrp-list-item"><a href="/egregore-creation-by-intent-and-the-currents-that-feed-them/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/038a224f-b7ab-4a55-8f38-fd0c0f44f946.jpg?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="7c7b76" style="--dominant-color: #7c7b76;" /><br><span class="lwrp-list-link-title-text">Egregore Creation by Intent and the Feeding and Care of Yours</span></a></li><li class="lwrp-list-item"><a href="/ars-goetia/" class="lwrp-list-link"><img loading="lazy" width="480" height="160" src="/assets/images/uploads/ars-goetia.gif?fit=480%2C160&ssl=1" class="attachment-480x480 size-480x480 has-transparency wp-post-image" alt="ars goetia" data-has-transparency="true" data-dominant-color="6f6752" style="--dominant-color: #6f6752;" /><br><span class="lwrp-list-link-title-text">The Ars Goetia: Exploring the Hierarchical Politics of Hell</span></a></li><li class="lwrp-list-item"><a href="/the-crucifucks/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">The Crucifucks</span></a></li>                    </ul>
+                </div>
+                        </div>
+</div>

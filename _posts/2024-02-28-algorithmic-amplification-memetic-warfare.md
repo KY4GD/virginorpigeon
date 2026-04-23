@@ -1,0 +1,382 @@
+---
+layout: post
+title: "Memetic Warfare and Contagion through Algorithmic Amplification"
+date: 2024-02-28
+slug: algorithmic-amplification-memetic-warfare
+categories: [fifth-generation-warfare, magick, psychology, society, zen-technoshamanism]
+tags: [algorithmic-amplification, memetic-warfare, technoshamanism]
+excerpt: "The advent of the Internet, and subsequently social media platforms, has fundamentally changed the way information is disseminated and consumed. This digital revolution has democratized media, allowin"
+---
+
+<h2 class="has-text-align-center alignwide wp-block-post-title">Memetic Warfare and Contagion through Algorithmic Amplification</h2>
+
+
+<div class="wp-block-cover aligncenter"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img data-dominant-color="4d5761" data-has-transparency="false" style="--dominant-color: #4d5761;" decoding="async" width="1024" height="1024" loading="lazy" class="wp-block-cover__image-background wp-image-7161 not-transparent" alt="Algorithmic Amplification" src="/assets/images/uploads/MemeticWarfareandContagionthroughAlgorithmicAmplification.jpg?resize=1024%2C1024&ssl=1" data-object-fit="cover" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p></p>
+</div></div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>The advent of the Internet, and subsequently social media platforms, has fundamentally changed the way information is disseminated and consumed. This digital revolution has democratized media, allowing anyone with Internet access to share content with a global audience. Initially heralded as a breakthrough for free speech and the dissemination of knowledge, this new media landscape has also become a fertile ground for manipulation and conflict, largely through algorithmic amplification and meme warfare.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-social-media-a-double-edged-sword">Social media: A Double-Edged Sword</h2>
+
+
+
+<p>The structure of social media, designed to maximize engagement and connectivity, has inadvertently created the perfect environment for the spread of memes and ideologically charged content. Platforms like Twitter, Facebook, Instagram, and newer entrants like TikTok have billions of users, each contributing to the vast ocean of information online. While this interconnectedness offers unprecedented opportunities for social movements and grassroots campaigns, it also opens the door to sophisticated influence operations.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-accessibility-of-influence">The accessibility of influence</h2>
+
+
+
+<p>Before the rise of social media, influencing public opinion and political campaigns required substantial investments in traditional media advertising, access to broadcast channels, or the support of established media outlets. Now, with just a smartphone and an Internet connection, individuals or groups can create content that can go viral and reach millions of people. While this shift has leveled the playing field in some ways, it has also made it easier for bad actors to spread disinformation and propaganda.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-mechanics-of-engagement-based-algorithms">The Mechanics of Engagement-Based Algorithms</h2>
+
+
+
+<p>At the heart of social media platforms are complex formulas that determine what content a user sees in their feed. These viral ideas examine a myriad of factors, including a user&#8217;s past interactions, the type of content they engage with, and what is trending across the network. Content that is predicted to be engaging is pushed to the top, often regardless of its factual accuracy or potential social impact.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-algorithmic-amplification">Algorithmic Amplification</h2>
+
+
+
+<p>The formulaic amplification significantly impacts the dissemination and reception of content across social media platforms. This process, designed to enhance user engagement by promoting content that is more likely to generate interactions such as likes, shares, and comments, plays a pivotal role in the digital information ecosystem. At its core, formulaic amplification seeks to keep users engaged on platforms for extended periods, thereby increasing the platforms&#8217; ad revenue and user dependency. However, this system has far-reaching consequences beyond just business metrics; it shapes public opinion, influences cultural norms, and has become a critical element in the dynamics of information war.</p>
+
+
+
+<p>If you need an example, look no further than <a href="/cancel-culture-is-democracy/" target="_blank" aria-label="the coopting of Cancel Culture (opens in a new tab)" rel="noreferrer noopener" class="ek-link">the coopting of Cancel Culture</a>. A union of Capitalism and Democracy, the literal voting with the wallet, has been turned into something negative. This is the impact of simple memetics.</p>
+
+
+
+<p>The strategic importance of understanding algorithmic amplification lies in its ability to make certain pieces of content more visible than others. By favoring content that is engaging over content that is accurate or informative, social media algorithms inadvertently prioritize sensationalism, controversy, and emotional provocation. These characteristics, which are prevalent in memes and similar content forms, allow for rapid spread and influence, thus becoming potent tools in the arsenal of those engaging in a form of warfare that involves infectious ideas. Contagious mental warfare utilizes memes and viral content as a means to influence, manipulate, or disrupt societal beliefs and actions, often with the intent of achieving political, social, or cultural objectives.</p>
+
+
+
+<p>The implications of viral ideas extend into various facets of <a data-wpil-monitor-id="12" href="/the-russian-threat/" target="_blank" rel="noopener">society</a>, including politics, where it can influence election outcomes by amplifying certain narratives over others; public health, where misinformation about health measures can spread more rapidly than factual information; and social justice, where it can both aid and hinder movements depending on the nature of the content being amplified. Moreover, the echo chamber effect, exacerbated by predictable blueprints of behavior, results in users being exposed primarily to content that aligns with their existing beliefs, further polarizing public discourse and diminishing the opportunity for constructive debate and understanding.</p>
+
+
+
+<h2 class="wp-block-heading">How it Works</h2>
+
+
+
+<p>Algorithmic amplification operates by leveraging engagement-focused metrics to prioritize content in users’ feeds. At its core, machine learning models analyze user behavior—such as likes, shares, and clicks—to predict and promote content most likely to keep users engaged. These algorithms optimize for time-on-platform or ad revenue rather than the veracity or societal impact of the content.<br><br>The architecture of these systems often relies on collaborative filtering, which clusters users with similar behaviors, reinforcing existing preferences and creating feedback loops. This exacerbates polarization by repeatedly exposing users to ideologically congruent content, intensifying their beliefs.<br><br>Moreover, neural networks used in these systems can identify and amplify emotionally charged content—like outrage or sensationalism—since such material drives higher engagement. Over time, this amplification distorts organic discourse, favoring memetic spread over nuanced discussion. Addressing these issues requires reengineering algorithms to factor in content quality and diversity, breaking the echo chamber effect without sacrificing user engagement entirely.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-other-side">The Other Side</h2>
+
+
+
+<p>Critics of <strong>algorithmic amplification</strong> argue that the relentless focus on engagement compromises the quality of information circulating on social media, contributing to the spread of misinformation, deepening societal divides, and undermining democratic processes. In response, there have been calls for social media companies to modify their algorithms to prioritize content quality and informational value over mere engagement metrics. However, implementing such changes poses its challenges, including defining what constitutes &#8220;quality&#8221; content, balancing freedom of expression with the need to curb harmful misinformation, and redesigning algorithms that are central to the business models of major social media platforms.</p>
+
+
+
+<p>A<strong>lgorithmic amplification</strong> is a double-edged sword in the digital age, capable of both connecting people with valuable information and driving divisive narratives. Understanding its mechanisms, impacts, and the ethical considerations it raises is crucial for navigating the complex landscape of modern digital communication. As we move forward, it will be essential to find a balance that respects the principles of free expression while ensuring a healthy, informative, and constructive digital public square.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-memetic-warfare-in-action"><strong>Memetic Warfare</strong> In Action</h2>
+
+
+
+<p>Memes, with their concise, relatable, and often humorous content, are perfectly suited to thrive in an engagement-driven environment. Their ability to convey complex ideas or emotions in a simple format makes them highly shareable. When memes carry political messages or misinformation, algorithmic magnification without measure can quickly spread these ideas far beyond their original audience, influencing public opinion and behavior.</p>
+
+
+
+<p>Consider Cancel Culture. The implication that it is somehow wrong to vote with our wallets &#8211; perhaps the single most American thing that exists. <a href="/cancel-culture-is-democracy/" class="ek-link" target="_blank">How</a>? </p>
+
+
+
+<h2 class="wp-block-heading" id="h-echo-chambers-and-filter-bubbles">Echo chambers and filter bubbles</h2>
+
+
+
+<p>Algorithmic amplification can lead to the creation of echo chambers and filter bubbles, where users are increasingly exposed to content that reinforces their existing beliefs and biases. This effect narrows the diversity of information and perspectives that users encounter, making them more susceptible to replicant manipulation. In political contexts, this can exacerbate polarization and undermine informed public discourse.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-impact-of-memetic-warfare-on-democracy">The impact of  memetic warfare on democracy</h2>
+
+
+
+<p>The global nature of social media means that content created in one part of the world can influence opinions and events in another, often in real time. This has significant implications for the sovereignty of nation-states, as foreign entities can easily engage in meme replication to influence elections, sow discord, or destabilize societies from afar. The ease with which information crosses borders makes it difficult for individual countries to protect their information ecosystems and maintain control over their internal affairs.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-evolving-battlefield">The Evolving Battlefield</h2>
+
+
+
+<p>As social media continues to evolve, so too does the nature of the battlefield. The rise of encrypted messaging apps, deepfakes, and other advanced technologies are adding new dimensions to the efforts to spread contagious ideas, making it increasingly sophisticated and difficult to combat. This constant evolution requires vigilance and adaptation from those charged with safeguarding democratic processes and societal stability. The battlefield of mental viral warfare is not static; it is rapidly evolving, reflecting the pace of technological advancement and changes in social media consumption patterns. As new platforms emerge and existing ones adapt, the tactics and strategies employed in the viral information battle are becoming increasingly sophisticated. This evolution presents both challenges and opportunities for those involved in the digital information sphere.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-rise-of-encrypted-messaging-apps">The Rise of Encrypted Messaging Apps</h2>
+
+
+
+<p>Encrypted messaging apps such as WhatsApp, Signal, and Telegram have become new arenas for memetic battle. These platforms offer privacy and security to their users, which is a double-edged sword. On the one hand, they can protect free speech and provide safe spaces for activism. On the other hand, they also allow for the unchecked spread of misinformation and propaganda within closed groups, making it harder for outside parties to monitor and counter harmful narratives.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-deepfakes-and-synthetic-media">Deepfakes and synthetic media</h2>
+
+
+
+<p>The advent of deepfake technology and other forms of synthetic media has added a new dimension to mental viral warfare. Deepfakes are video and audio recordings that have been digitally manipulated to make it appear that someone is saying or doing something they are not. This technology can be used to create highly convincing fake news and propaganda that undermines trust in media and institutions. As deepfake technology becomes more accessible, the potential for its use in memetic warfare increases, posing significant challenges to information integrity.</p>
+
+
+
+<p>The role of algorithms in shaping political discourse cannot be overstated. By prioritizing content that is likely to engage, social media platforms inadvertently give an advantage to sensational, divisive, or misleading information. This dynamic can distort the democratic process, as elections and public policy debates are influenced by the most engaging (rather than the most accurate or relevant) content.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-medium"><img height="300" width="300" decoding="async" loading="lazy" src="/assets/images/uploads/memetic-warfare-1.jpg?resize=300%2C300&ssl=1" alt="memetic warfare" class="wp-image-3335"/></figure>
+</div>
+
+
+<h2 class="wp-block-heading" id="h-manipulation-by-bad-actors">Manipulation by bad actors</h2>
+
+
+
+<p>Recognizing the power of algorithmic increase, various actors, including state-sponsored trolls, political operatives, and ideological extremists, have exploited these mechanisms to spread propaganda and disinformation. Through a calculated mix of meme warfare and targeted advertising, these entities can manipulate algorithms to achieve broad visibility for their narratives, often with the goal of sowing discord or influencing elections.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-challenge-of-mitigation">The challenge of mitigation</h2>
+
+
+
+<p>Countering the negative effects of the increased magnitude of algorithms is a significant challenge. Social media companies have begun to implement measures such as fact-checking and down-rating misleading content, but these efforts must be balanced with concerns about censorship and freedom of expression. Moreover, the ever-evolving nature of algorithms and contagious content makes this a moving target.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-future-directions">Future directions</h2>
+
+
+
+<p>As awareness of algorithmic intensification and its consequences grows, so does the demand for transparency and accountability from social media platforms. Potential solutions include algorithmic adjustments that prioritize content diversity and accuracy, as well as user empowerment tools that give users more control over the content they see. Ultimately, addressing the challenges of algorithmic amplification in memetic warfare will require a multifaceted approach involving platform designers, policymakers, and users themselves.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-microtargeting-and-psychographic-profiling">Microtargeting and Psychographic Profiling</h2>
+
+
+
+<p>Advances in data analytics have enabled an unprecedented level of microtargeting, where memes and information campaigns can be tailored to the psychological profiles of individual users or small, specific groups. This level of personalization makes memetic content more persuasive and harder to resist, amplifying its impact. While microtargeting can be used for benign purposes, such as customized advertising, it also has the potential for manipulation, allowing actors to exploit vulnerabilities in human psychology on a large scale.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-role-of-artificial-intelligence">The role of artificial intelligence</h2>
+
+
+
+<p>Artificial intelligence (AI) is playing an increasingly central role in shaping the virial information battle. AI can be used to generate memes, automate the distribution of content across platforms, and even create persuasive bots that mimic human behavior online. These AI-driven tactics can amplify the reach and effectiveness of memetic campaigns, making them more difficult to identify and counter. In addition, AI can analyze large data sets to identify vulnerable targets for memetic attacks, further refining the tools available to bad actors.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-platform-evolution-and-adaptation">Platform Evolution and Adaptation</h2>
+
+
+
+<p>Social media platforms themselves are evolving in response to the challenges of memetic warfare. Changes in algorithms, the introduction of fact-checking services, and efforts to increase transparency are all attempts to mitigate the impact of harmful content. However, these measures often lead to an arms race as those engaged in memetic warfare develop new strategies to circumvent restrictions and continue to influence public opinion.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-need-for-global-cooperation">The need for global cooperation</h2>
+
+
+
+<p>The transnational nature of the digital information space requires global cooperation to effectively combat memetic warfare. No single nation or organization can meet this challenge alone. International cooperation, along with the sharing of best practices and resources, is essential to developing comprehensive strategies to defend against the manipulation of information.</p>
+
+
+
+<p>The evolving battlefield of memetic warfare requires constant vigilance and adaptation by all involved. As technology advances, so do the methods of manipulation and influence. Countering these threats requires a multi-pronged approach that includes technological solutions, regulatory frameworks, and the promotion of digital literacy among the public. Only by staying ahead of the curve can societies hope to protect the integrity of their information environments and preserve the democratic process.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-power-of-households-in-memetic-warfare">The Power of Households in Memetic Warfare</h2>
+
+
+
+<p>In the arena of memetic warfare, the role of financial resources cannot be overstated. The principle that &#8220;anyone with a big enough budget can use memetics to manipulate us&#8221; underscores a critical vulnerability in democratic societies. This vulnerability is not merely theoretical, but has been demonstrated in various instances of political and social manipulation. The ability of nation-states, political action committees (PACs), and other well-funded entities to use democracy against its citizens by shaping desires and opinions through memes reveals a profound challenge to the integrity of democratic processes.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-democratization-of-influence">The democratization of influence</h2>
+
+
+
+<p>Social media has democratized the ability to influence by lowering the barriers to entry for creating and disseminating content. However, the presence of significant financial resources can exponentially increase that influence. With enough budget, a company can increase the visibility of specific memes through sponsored content, targeted advertising, and the engagement of influential social media personalities. This approach allows for precise demographic targeting, making memetic content more effective and ensuring that it reaches receptive audiences.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-strategic-use-of-memetics">The strategic use of memetics</h2>
+
+
+
+<p>The strategic use of memetics by those with significant budgets requires a sophisticated understanding of social dynamics, digital marketing and psychological manipulation. Memes, by their very nature, are designed to resonate on an emotional level, bypassing rational analysis and fostering a direct connection with the viewer. When combined with data analysis and psychographic profiling, memetics becomes a powerful tool for shaping perceptions and influencing behavior.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-using-democracy-against-itself">Using democracy against itself</h2>
+
+
+
+<p>The irony of using democracy&#8217;s own mechanisms to undermine it is particularly poignant in the context of memetic warfare. In a democracy, the desires of the majority are supposed to shape policy and leadership. But when those desires can be manipulated through targeted memetic campaigns, the very essence of democracy is at risk. The notion of &#8220;giving the people what they want&#8221; becomes problematic when what they want is the result of manipulation rather than informed, independent thought.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-case-studies-and-examples">Case studies and examples</h2>
+
+
+
+<p>Cambridge Analytica&#8217;s use of memetics during the 2016 U.S. presidential election serves as a prime example of the use of democracy through targeted influence campaigns. By analyzing vast amounts of data to understand voter preferences and vulnerabilities, the company was able to create and disseminate memes and messages designed to sway public opinion. This case highlights how democracy can be turned against itself, with targeted memetic content serving as a means to shape political landscapes according to the will of those with the resources to fund such operations.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-ethical-and-democratic-implications">Ethical and democratic implications</h2>
+
+
+
+<p>The ethical implications of using memetics in this way are profound. It raises questions about the authenticity of democratic decisions and the susceptibility of public opinion to manipulation. The integrity of the democratic process depends on an informed electorate making decisions based on genuine beliefs and understandings. When outside entities can use financial power to influence these beliefs, the foundation of democracy is undermined.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-countering-memetic-manipulation">Countering Memetic Manipulation</h2>
+
+
+
+<p>Addressing the challenge of memetic manipulation in democracies requires a multifaceted approach. This includes increasing the digital literacy of the population to recognize and critically evaluate memetic content, implementing stricter regulations on political advertising and data privacy, and promoting transparency and accountability in online political campaigns. In addition, governments, technology companies, and civil society must work together to develop strategies to protect the democratic process from the undue influence of well-funded memetic campaigns. The ability of any entity with a significant budget to use memetics to manipulate public opinion is a direct challenge to the principles of democracy.</p>
+
+
+
+<p>Recognizing and mitigating this threat will require concerted efforts and vigilance from all sectors of society. Only by understanding the dynamics of memetic warfare and actively engaging in countermeasures can democracies hope to preserve the integrity of their electoral processes and ensure that the will of the people reflects genuine, informed choice rather than the result of manipulation.</p>
+
+
+
+<div id="bl761"><div class="sq_blog_content" style="position: relative;clear: both;background: white;font-size: 14px;color: #333;max-width: 500px;margin: 5px auto 5px auto;padding: 13px;border: 1px solid #DDD;-webkit-box-shadow: 0 1px 0 #DDD;-moz-box-shadow: 0 1px 0 #ddd;box-shadow: 0 1px 0 #DDD;"><a id="b_4" class="sq_news" href="https://www.atlantis-press.com/proceedings/iconpo-21/125970897" title="The Influence of Political Memes in Social Media on the Level of ..."  target="_blank" rel="nofollow" >The Influence of Political Memes in Social Media on the Level of &#8230;</a><div class="sq_news_text" style="font-style:italic;color: #333;">Mar 1, 2022 <b>&#8230;</b> The purpose of this research was conducted to determine the <b>effect</b> of <b>Political Memes</b> on <b>Social</b> Media on The Level of <b>Political</b>&nbsp;&#8230;</div></div></div><div><br style="clear:both" /></div>
+
+
+
+<div id="wi858"><div class="sq_wiki_content" style="position: relative;clear: both;background: white;font-size: 14px;color: #333;max-width: 500px;margin: 5px auto 5px auto;padding: 13px;border: 1px solid #DDD;-webkit-box-shadow: 0 1px 0 #DDD;-moz-box-shadow: 0 1px 0 #ddd;box-shadow: 0 1px 0 #DDD;"><a id="w_0" class="sq_wiki" href="//en.wikipedia.org/wiki/Memetic_warfare" title="Memetic warfare" style="display: block;font-weight: 700;color: #0074B7;line-height: 1.4em;margin-bottom: 5px;text-decoration: none;" target="_blank">Memetic warfare</a><div class="sq_wiki_text" style="font-style:italic;color: #333;"><span class="searchmatch">Memetic</span> <span class="searchmatch">warfare</span> is a modern type of information <span class="searchmatch">warfare</span> and psychological <span class="searchmatch">warfare</span> involving the propagation of memes on social media. In fiction, the</div></div></div><div><br style="clear:both" /></div>
+<style>
+.lwrp.link-whisper-related-posts{
+            
+            margin-top: 40px;
+margin-bottom: 30px;
+        }
+        .lwrp .lwrp-title{
+            
+            
+        }.lwrp .lwrp-description{
+            
+            
+
+        }
+        .lwrp .lwrp-list-container{
+        }
+        .lwrp .lwrp-list-multi-container{
+            display: flex;
+        }
+        .lwrp .lwrp-list-double{
+            width: 48%;
+        }
+        .lwrp .lwrp-list-triple{
+            width: 32%;
+        }
+        .lwrp .lwrp-list-row-container{
+            display: flex;
+            justify-content: space-between;
+        }
+        .lwrp .lwrp-list-row-container .lwrp-list-item{
+            width: calc(25% - 20px);
+        }
+        .lwrp .lwrp-list-item:not(.lwrp-no-posts-message-item){
+            
+            max-width: 150px;
+        }
+        .lwrp .lwrp-list-item img{
+            max-width: 100%;
+            height: auto;
+            object-fit: cover;
+            aspect-ratio: 1 / 1;
+        }
+        .lwrp .lwrp-list-item.lwrp-empty-list-item{
+            background: initial !important;
+        }
+        .lwrp .lwrp-list-item .lwrp-list-link .lwrp-list-link-title-text,
+        .lwrp .lwrp-list-item .lwrp-list-no-posts-message{
+            
+            
+            
+            
+        }@media screen and (max-width: 480px) {
+            .lwrp.link-whisper-related-posts{
+                
+                
+            }
+            .lwrp .lwrp-title{
+                
+                
+            }.lwrp .lwrp-description{
+                
+                
+            }
+            .lwrp .lwrp-list-multi-container{
+                flex-direction: column;
+            }
+            .lwrp .lwrp-list-multi-container ul.lwrp-list{
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
+            .lwrp .lwrp-list-double,
+            .lwrp .lwrp-list-triple{
+                width: 100%;
+            }
+            .lwrp .lwrp-list-row-container{
+                justify-content: initial;
+                flex-direction: column;
+            }
+            .lwrp .lwrp-list-row-container .lwrp-list-item{
+                width: 100%;
+            }
+            .lwrp .lwrp-list-item:not(.lwrp-no-posts-message-item){
+                
+                max-width: initial;
+            }
+            .lwrp .lwrp-list-item .lwrp-list-link .lwrp-list-link-title-text,
+            .lwrp .lwrp-list-item .lwrp-list-no-posts-message{
+                
+                
+                
+                
+            };
+        }</style>
+<div id="link-whisper-related-posts-widget" class="link-whisper-related-posts lwrp">
+            <h3 class="lwrp-title">Related Posts</h3>    
+        <div class="lwrp-list-container">
+                                            <div class="lwrp-list-multi-container">
+                    <ul class="lwrp-list lwrp-list-double lwrp-list-left">
+                        <li class="lwrp-list-item"><a href="/404-2/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/404.webp?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="687b7c" style="--dominant-color: #687b7c;" /><br><span class="lwrp-list-link-title-text">404</span></a></li><li class="lwrp-list-item"><a href="/unveiling-the-mysteries-the-history-of-ghost-and-their-occult-metal-legacy/" class="lwrp-list-link"><img loading="lazy" width="480" height="271" src="/assets/images/uploads/ghost.jpg?fit=480%2C271&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="ghost the band" data-has-transparency="false" data-dominant-color="3d4337" style="--dominant-color: #3d4337;" /><br><span class="lwrp-list-link-title-text">The History of Ghost and Their Occult Metal Legacy</span></a></li><li class="lwrp-list-item"><a href="/an-homage-to-no-reason/" class="lwrp-list-link"><img loading="lazy" width="480" height="244" src="/assets/images/uploads/bh-e1688495991964-590x300.bk_.webp?fit=480%2C244&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="767755" style="--dominant-color: #767755;" /><br><span class="lwrp-list-link-title-text">About</span></a></li><li class="lwrp-list-item"><a href="/the-crucifucks/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">The Crucifucks</span></a></li>                    </ul>
+                    <ul class="lwrp-list lwrp-list-double lwrp-list-right">
+                        <li class="lwrp-list-item"><a href="/title-understanding-the-operating-thetan-levels-of-scientology/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Title: Understanding the Operating Thetan Levels of Scientology</span></a></li><li class="lwrp-list-item"><a href="/robert-anton-wilson-8-circuit/" class="lwrp-list-link"><img loading="lazy" width="471" height="480" src="/assets/images/uploads/RobertAntonWilson-8-circuit-model.webp?fit=471%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="8 Circuit Model of Consciousness" data-has-transparency="false" data-dominant-color="7c7c7c" style="--dominant-color: #7c7c7c;" /><br><span class="lwrp-list-link-title-text">Robert Anton Wilson, on Timothy Leary&#8217;s 8 Circuit Model</span></a></li><li class="lwrp-list-item"><a href="/enochian-magick/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/enochian1.jpeg?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="545759" style="--dominant-color: #545759;" /><br><span class="lwrp-list-link-title-text">Unveiling the Mysteries of Enochian Magic and its Lasting Influence</span></a></li><li class="lwrp-list-item"><a href="/guardian-angel/" class="lwrp-list-link"><img loading="lazy" width="300" height="168" src="/assets/images/uploads/images28129.jpeg?fit=300%2C168&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="c0c0c0" style="--dominant-color: #c0c0c0;" /><br><span class="lwrp-list-link-title-text"> Aleister Crowley&#8217;s Insights Into the Holy Guardian Angels</span></a></li>                    </ul>
+                </div>
+                        </div>
+</div>

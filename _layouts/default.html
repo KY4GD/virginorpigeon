@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml">
+  {% seo %}
+</head>
+<body class="{% if page.url == '/' %}is-home{% endif %}">
+
+  <div class="site-overlay" id="site-overlay"></div>
+
+  <!-- Mobile offcanvas nav -->
+  <div class="offcanvas" id="offcanvas">
+    <div class="offcanvas-header">
+      <button class="offcanvas-close" id="offcanvas-close" aria-label="Close menu">&#10005;</button>
+    </div>
+    <nav class="offcanvas-nav">
+      {% include nav.html %}
+    </nav>
+  </div>
+
+  <!-- Main navbar -->
+  <header class="site-header" id="site-header">
+    <div class="header-inner">
+      <button class="nav-toggle" id="nav-toggle" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+      <a class="site-logo" href="/">{{ site.title }}</a>
+      <nav class="main-nav desktop-nav">
+        {% include nav.html %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+      <p class="footer-desc">{{ site.description }}</p>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+</body>
+</html>
