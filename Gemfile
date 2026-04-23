@@ -5,4 +5,7 @@ gem "jekyll-feed"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 gem "jekyll-paginate-v2"
-gem "webrick"
+
+group :development do
+  gem "webrick"
+end
