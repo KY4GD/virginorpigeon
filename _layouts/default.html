@@ -3,10 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml">
+  {% comment %}
+    jekyll-seo-tag owns the <title>, meta description, canonical, Open Graph,
+    Twitter cards, and JSON-LD. Do not re-add a manual <title> or
+    <meta name="description"> here — that produced duplicate tags on every page.
+  {% endcomment %}
   {% seo %}
 </head>
 <body class="{% if page.url == '/' %}is-home{% endif %}">
