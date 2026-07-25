@@ -1,0 +1,36 @@
+{% comment %}
+  Giscus comments, backed by GitHub Discussions (kauzality/virginorpigeon).
+  Static-friendly: no backend to run, no ads, no tracking. Commenters sign in
+  with GitHub, which keeps spam down.
+
+  On by default for posts. To hide comments on a single post, add
+  `comments: false` to its front matter.
+
+  Requires the giscus GitHub App to be installed on the repo:
+  https://github.com/apps/giscus  (one-time, done in the GitHub UI).
+{% endcomment %}
+{% if page.comments != false %}
+<style>
+  .post-comments { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid rgba(128,128,128,0.25); }
+  .post-comments .comments-heading { margin: 0 0 1rem; font-size: 1.3rem; }
+</style>
+<section class="post-comments" aria-label="Comments">
+  <h2 class="comments-heading">Join the conversation</h2>
+  <script src="https://giscus.app/client.js"
+    data-repo="kauzality/virginorpigeon"
+    data-repo-id="R_kgDOSLAYMw"
+    data-category="Announcements"
+    data-category-id="DIC_kwDOSLAYM84DB8sR"
+    data-mapping="pathname"
+    data-strict="1"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="preferred_color_scheme"
+    data-lang="en"
+    crossorigin="anonymous"
+    async>
+  </script>
+  <noscript>Comments require JavaScript. You can also join the discussion on GitHub.</noscript>
+</section>
+{% endif %}
