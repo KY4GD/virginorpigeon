@@ -33,7 +33,7 @@ image: "/assets/images/uploads/In-Darkness-Lies-Darkness.jpg"
 
 
 
-<p>One particularly dark chapter in Western religious <a href="/fraternal-order-of-freemasonry/" target="_blank" rel="noopener"  data-wpil-monitor-id="210">history</a> is the Inquisition. During the Middle Ages and Renaissance, the Inquisition was used as a means to enforce religious orthodoxy and suppress dissenting voices. Countless individuals were persecuted, tortured, and executed, accused of heresy or witchcraft. Witch covens, popularly associated with pagan traditions and nature-based religions, faced similar persecution, with accusations of devil worship and supernatural powers leading to the suffering and death of many innocent people.</p>
+<p>One particularly dark chapter in Western religious <a href="/category/occult-groups/" target="_blank" rel="noopener"  data-wpil-monitor-id="210">history</a> is the Inquisition. During the Middle Ages and Renaissance, the Inquisition was used as a means to enforce religious orthodoxy and suppress dissenting voices. Countless individuals were persecuted, tortured, and executed, accused of heresy or witchcraft. Witch covens, popularly associated with pagan traditions and nature-based religions, faced similar persecution, with accusations of devil worship and supernatural powers leading to the suffering and death of many innocent people.</p>
 
 
 

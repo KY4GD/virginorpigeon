@@ -21,7 +21,7 @@ image: "/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_
 
 
 
-<p>Crowley&#8217;s early exposure to Christian fundamentalism, combined with his subsequent rejection of its doctrines, set the stage for his lifelong quest for spiritual truth. His education at Cambridge, where he delved into philosophy and literature, further expanded his quest for knowledge, leading him to explore various esoteric and occult traditions. It was within these traditions that <a href="/crowleys-influence/" target="_blank" rel="noopener"  data-wpil-monitor-id="87">Crowley</a> began to conceptualize the idea of the HGA, an entity that would guide him towards his true will and ultimate purpose.</p>
+<p>Crowley&#8217;s early exposure to Christian fundamentalism, combined with his subsequent rejection of its doctrines, set the stage for his lifelong quest for spiritual truth. His education at Cambridge, where he delved into philosophy and literature, further expanded his quest for knowledge, leading him to explore various esoteric and occult traditions. It was within these traditions that <a href="/crowleys-reincarnation/" target="_blank" rel="noopener"  data-wpil-monitor-id="87">Crowley</a> began to conceptualize the idea of the HGA, an entity that would guide him towards his true will and ultimate purpose.</p>
 
 
 

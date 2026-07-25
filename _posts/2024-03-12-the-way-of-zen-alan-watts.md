@@ -61,7 +61,7 @@ image: "/assets/images/uploads/6e468314-f937-4342-8f33-b37b5095487f.webp"
 
 
 
-<p><br>A. Thelema and Watts&#8217; Beliefs: Thelema, a spiritual system developed by Aleister <a href="/crowleys-influence/" target="_blank" rel="noopener"  data-wpil-monitor-id="98">Crowley</a>, emphasizes personal autonomy and the pursuit of one&#8217;s true will. Although there may not be direct connections between Watts and Thelema, some similarities can be drawn. Both highlight the significance of self-discovery, embracing one&#8217;s authentic nature, and seeking meaning and purpose in life.</p>
+<p><br>A. Thelema and Watts&#8217; Beliefs: Thelema, a spiritual system developed by Aleister <a href="/crowleys-reincarnation/" target="_blank" rel="noopener"  data-wpil-monitor-id="98">Crowley</a>, emphasizes personal autonomy and the pursuit of one&#8217;s true will. Although there may not be direct connections between Watts and Thelema, some similarities can be drawn. Both highlight the significance of self-discovery, embracing one&#8217;s authentic nature, and seeking meaning and purpose in life.</p>
 
 
 

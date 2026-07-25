@@ -171,7 +171,7 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<p class="has-white-color has-text-color" style="font-size:17px">The site takes its name from Aleister <a data-wpil-monitor-id="94" href="/crowleys-influence/" target="_blank" rel="noopener">Crowley&#8217;s</a> work &#8220;Equinox of the Gods,&#8221; which is part of his philosophical corpus. The full quote is &#8220;We place no reliance in virgin or pigeon; our method is science, our aim is religion&#8221;.&nbsp; In this particular quote, Crowley is expressing the perspective of the religious and philosophical system he developed known as Thelema.</p>
+<p class="has-white-color has-text-color" style="font-size:17px">The site takes its name from Aleister <a data-wpil-monitor-id="94" href="/crowleys-reincarnation/" target="_blank" rel="noopener">Crowley&#8217;s</a> work &#8220;Equinox of the Gods,&#8221; which is part of his philosophical corpus. The full quote is &#8220;We place no reliance in virgin or pigeon; our method is science, our aim is religion&#8221;.&nbsp; In this particular quote, Crowley is expressing the perspective of the religious and philosophical system he developed known as Thelema.</p>
 
 
 

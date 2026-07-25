@@ -29,7 +29,7 @@ image: "/assets/images/uploads/yinyang.jpg"
 
 
 
-<p>III. Thelema and Ghost&#8217;s Musical Aesthetic:<br>A. The Influence of Aleister <a href="/crowleys-influence/" target="_blank" rel="noopener"  data-wpil-monitor-id="99">Crowley</a>: Aleister Crowley, the influential occultist and founder of Thelema, has left a significant impact on occult-related music and art. While there is no explicit confirmation of direct connections between Ghost and <a href="/how-to-perform-the-ruby-star-ritual-a-practical-guide/" target="_blank" rel="noopener"  data-wpil-monitor-id="135">Thelema</a>, some thematic elements and symbolism in their music can be reminiscent of Thelemic ideas.</p>
+<p>III. Thelema and Ghost&#8217;s Musical Aesthetic:<br>A. The Influence of Aleister <a href="/crowleys-reincarnation/" target="_blank" rel="noopener"  data-wpil-monitor-id="99">Crowley</a>: Aleister Crowley, the influential occultist and founder of Thelema, has left a significant impact on occult-related music and art. While there is no explicit confirmation of direct connections between Ghost and <a href="/how-to-perform-the-ruby-star-ritual-a-practical-guide/" target="_blank" rel="noopener"  data-wpil-monitor-id="135">Thelema</a>, some thematic elements and symbolism in their music can be reminiscent of Thelemic ideas.</p>
 
 
 

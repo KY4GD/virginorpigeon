@@ -28,7 +28,7 @@ image: "/assets/images/uploads/ars-goetia.gif"
 
 <div id="wi496">
 <div class="sq_wiki_content" style="position: relative; clear: both; background: white; font-size: 14px; color: #333; max-width: 500px; margin: 5px auto 5px auto; padding: 13px; border: 1px solid #DDD; -webkit-box-shadow: 0 1px 0 #DDD; -moz-box-shadow: 0 1px 0 #ddd; box-shadow: 0 1px 0 #DDD;"><a id="w_1" class="sq_wiki" style="display: block; font-weight: bold; color: #0074b7; line-height: 1.4em; margin-bottom: 5px; text-decoration: none;" title="Banishing" href="https://en.wikipedia.org/wiki/Banishing" target="_blank">Banishing</a>
-<div class="sq_wiki_text" style="font-style: italic; color: #333;">Hexagram Greater Banishing Ritual of the Hexagram The Star Ruby, a version of the Lesser Banishing Ritual of the Pentagram that was modified by Aleister <a href="/crowleys-influence/" target="_blank" rel="noopener"  data-wpil-monitor-id="85">Crowley</a></div>
+<div class="sq_wiki_text" style="font-style: italic; color: #333;">Hexagram Greater Banishing Ritual of the Hexagram The Star Ruby, a version of the Lesser Banishing Ritual of the Pentagram that was modified by Aleister <a href="/crowleys-reincarnation/" target="_blank" rel="noopener"  data-wpil-monitor-id="85">Crowley</a></div>
 </div>
 </div>
 <div> </div>
@@ -39,7 +39,7 @@ image: "/assets/images/uploads/ars-goetia.gif"
 
 
 
-<div id="lo493"><div class="sq_local_content" style="position: relative;clear: both;background: white;font-size: 14px;color: #333;max-width: 500px;margin: 5px auto 5px auto;padding: 13px;border: 1px solid #DDD;-webkit-box-shadow: 0 1px 0 #DDD;-moz-box-shadow: 0 1px 0 #ddd;box-shadow: 0 1px 0 #DDD;"><a id="l_7471" class="sq_local" href="/featured/ruby-star-ritual-in-introduction-to-banishing" title="Ruby Star Ritual: In Introduction to Banishing" style="display: block;font-weight: 700;color: #0074B7;line-height: 1.4em;margin-bottom: 5px;text-decoration: none;" target="_blank">Ruby Star Ritual: In Introduction to Banishing</a><div class="sq_local_text" style="font-style:italic;color: #333;">How to Perform the Ruby Star Ritual: A Practical Guide The Ruby Star Ritual, or Star Ruby, is a potent Thelemic ceremonial practice created by Aleister Crowley. It aims to purify the practitioner&#8217;s energy and mental space, invoking protective forces and fostering spiritual growth. This guide provides a</div></div></div><div><br style="clear:both" /></div>
+<div id="lo493"><div class="sq_local_content" style="position: relative;clear: both;background: white;font-size: 14px;color: #333;max-width: 500px;margin: 5px auto 5px auto;padding: 13px;border: 1px solid #DDD;-webkit-box-shadow: 0 1px 0 #DDD;-moz-box-shadow: 0 1px 0 #ddd;box-shadow: 0 1px 0 #DDD;"><a id="l_7471" class="sq_local" href="/ruby-star-ritual/" title="Ruby Star Ritual: In Introduction to Banishing" style="display: block;font-weight: 700;color: #0074B7;line-height: 1.4em;margin-bottom: 5px;text-decoration: none;" target="_blank">Ruby Star Ritual: In Introduction to Banishing</a><div class="sq_local_text" style="font-style:italic;color: #333;">How to Perform the Ruby Star Ritual: A Practical Guide The Ruby Star Ritual, or Star Ruby, is a potent Thelemic ceremonial practice created by Aleister Crowley. It aims to purify the practitioner&#8217;s energy and mental space, invoking protective forces and fostering spiritual growth. This guide provides a</div></div></div><div><br style="clear:both" /></div>
 
 
 
