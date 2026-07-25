@@ -20,6 +20,12 @@
       <li><a href="/on-technoshamanism-and-magick/fiction/">Fiction</a></li>
     </ul>
   </li>
+  {% comment %}
+    Temporarily hidden. Set show_music_nav: true in _config.yml to restore.
+    The pages themselves stay published and reachable; only the menu entry is
+    hidden. /music-video/current93/ still has no video.
+  {% endcomment %}
+  {% if site.show_music_nav %}
   <li class="nav-item has-children">
     <a href="/music-video/">Music Video</a>
     <ul class="sub-nav">
@@ -31,6 +37,7 @@
       <li><a href="/music-video/copernicus/">Copernicus</a></li>
     </ul>
   </li>
+  {% endif %}
   <li class="nav-item"><a href="/gallery/">Gallery</a></li>
   <li class="nav-item"><a href="/magick/">Magick</a></li>
 </ul>

@@ -65,6 +65,9 @@ autopages:
   collections:
     enabled: false
 
+# Music Video menu is hidden for now. Flip to true to bring it back.
+show_music_nav: false
+
 sass:
   style: compressed
 
