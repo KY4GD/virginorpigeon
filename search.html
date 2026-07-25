@@ -1,0 +1,22 @@
+---
+layout: page
+title: "Search"
+permalink: /search/
+sitemap: false
+---
+
+{% comment %}
+  Search is powered by Pagefind, which indexes the built site after Jekyll runs.
+  The /pagefind/ assets only exist in a production build (see the Cloudflare
+  build command: `bundle exec jekyll build && npx pagefind --site _site`), so
+  this box works on the live site, not under a bare `jekyll serve`.
+{% endcomment %}
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<div id="search" class="site-search"></div>
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
+  });
+</script>
+<noscript><p>Search requires JavaScript.</p></noscript>
