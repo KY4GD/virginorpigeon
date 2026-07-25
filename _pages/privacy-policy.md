@@ -2,10 +2,11 @@
 layout: page
 title: "Privacy Policy"
 permalink: /an-homage-to-no-reason/privacy-policy/
+image: "/assets/images/uploads/Privacy-Policy.webp"
 ---
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img data-dominant-color="666d7a" data-has-transparency="false" decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/Privacy-Policy.webp" alt="" class="wp-image-9314 not-transparent" style="--dominant-color: #666d7a; width:528px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img data-dominant-color="666d7a" data-has-transparency="false" decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/Privacy-Policy.webp" alt="Privacy policy" class="wp-image-9314 not-transparent" style="--dominant-color: #666d7a; width:528px;height:auto" /></figure>
 </div>
 
 

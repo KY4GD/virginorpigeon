@@ -6,9 +6,10 @@ slug: therapeutic-mindfulness
 categories: [psychology, zen-technoshamanism]
 tags: [magick]
 excerpt: "Embarking on a comprehensive exploration of therapeutic mindfulness, this blog post aims to enrich understanding, debunk myths, and present actionable insights into a practice that has profoundly impa"
+image: "/assets/images/uploads/Privacy-Policy.webp"
 ---
 
-<figure class="wp-block-image size-large"><img data-dominant-color="666d7a" data-has-transparency="false" style="--dominant-color: #666d7a;" decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/Privacy-Policy.webp" alt="" class="wp-image-9314 not-transparent" /></figure>
+<figure class="wp-block-image size-large"><img data-dominant-color="666d7a" data-has-transparency="false" style="--dominant-color: #666d7a;" decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/Privacy-Policy.webp" alt="Privacy policy" class="wp-image-9314 not-transparent" /></figure>
 
 
 

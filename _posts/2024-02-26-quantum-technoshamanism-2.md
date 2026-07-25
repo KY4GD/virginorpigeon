@@ -6,6 +6,7 @@ slug: quantum-technoshamanism-2
 categories: [magick, new, zen-technoshamanism]
 tags: [philosophy, science, technoshamanism]
 excerpt: "Introduction Similarities in Symbolism The unicursal hexagram of Thelema and the Eastern Yin Yang symbol share philosophical similarities. These symbols also relate to principles in quantum physics, s"
+image: "/assets/images/uploads/yinyang.jpg"
 ---
 
 <div class="wp-block-image">

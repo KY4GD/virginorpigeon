@@ -6,6 +6,7 @@ slug: algorithmic-amplification-memetic-warfare
 categories: [fifth-generation-warfare, magick, psychology, society, zen-technoshamanism]
 tags: [algorithmic-amplification, memetic-warfare, technoshamanism]
 excerpt: "The advent of the Internet, and subsequently social media platforms, has fundamentally changed the way information is disseminated and consumed. This digital revolution has democratized media, allowin"
+image: "/assets/images/uploads/MemeticWarfareandContagionthroughAlgorithmicAmplification.jpg"
 ---
 
 <h2 class="has-text-align-center alignwide wp-block-post-title">Memetic Warfare and Contagion through Algorithmic Amplification</h2>

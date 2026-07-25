@@ -2,6 +2,7 @@
 layout: page
 title: "Bad Religion"
 permalink: /music-video/bad-religion/
+image: "/assets/images/uploads/cancel-culture-is-democracy.jpg"
 ---
 
 {% include youtube.html id="12kcpP-8jfM" title="Bad Religion - American Jesus" %}

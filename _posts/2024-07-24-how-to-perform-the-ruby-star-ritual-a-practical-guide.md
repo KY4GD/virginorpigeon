@@ -6,6 +6,7 @@ slug: how-to-perform-the-ruby-star-ritual-a-practical-guide
 categories: [magick, ruby-star-ritual, thelema]
 tags: [magick, ruby-star-ritual]
 excerpt: "The Ruby Star Ritual, or Star Ruby, is a potent Thelemic ceremonial practice created by Aleister Crowley. It aims to purify the practitioner&#8217;s energy and mental space, invoking protective forces"
+image: "/assets/images/uploads/ghost.jpg"
 ---
 
 <p><strong>The Ruby Star Ritual, or Star Ruby, is a potent Thelemic ceremonial practice created by Aleister Crowley. It aims to purify the practitioner&#8217;s energy and mental space, invoking protective forces and fostering spiritual growth. This guide provides a step-by-step process for performing the ritual and outlines its benefits.</strong></p>

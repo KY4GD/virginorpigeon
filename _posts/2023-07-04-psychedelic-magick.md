@@ -6,6 +6,7 @@ slug: psychedelic-magick
 categories: [magick, psychedelia, psychology, thelema]
 tags: [history, magick]
 excerpt: "Timothy Leary and Aleister Crowley"
+image: "/assets/images/uploads/psychedelic-magick-4.jpg"
 ---
 
 <div class="wp-block-image is-style-default">

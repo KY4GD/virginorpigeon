@@ -6,6 +6,7 @@ slug: esoteric-satanism
 categories: [magick, occult-groups]
 tags: [esoteric-satanism]
 excerpt: "In the realm of modern occultism, the Temple of Set stands as a distinct and intriguing organization. Founded in 1975 by Michael Aquino, a former member of the Church of&hellip;"
+image: "/assets/images/uploads/file-CFsK91YJPjxfHnCitq873h.webp"
 ---
 
 <div class="wp-block-image">

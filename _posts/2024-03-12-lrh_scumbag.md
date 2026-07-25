@@ -10,6 +10,7 @@ permalink: /lrh_scumbag/
 categories: [occult-groups]
 tags: [thelema]
 excerpt: "The evolution of Scientology, a controversial religious movement developed by L. Ron Hubbard, is not without its captivating historical connections. This blog post dives deep into the intriguing relat"
+image: "/assets/images/uploads/1000024089.jpg"
 ---
 
 <div class="wp-block-image">

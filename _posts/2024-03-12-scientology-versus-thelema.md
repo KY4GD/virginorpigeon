@@ -6,6 +6,7 @@ slug: scientology-versus-thelema
 categories: [occult-groups, thelema]
 tags: [dangerous-cults]
 excerpt: "In the realm of esoteric and occult beliefs, two prominent systems have captured the attention of seekers and critics alike: Scientology and Thelema."
+image: "/assets/images/uploads/scientology-versus-thelema.jpg"
 ---
 
 <figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/scientology-versus-thelema.jpg" alt="scientology versus thelema" class="wp-image-8173" /></figure>

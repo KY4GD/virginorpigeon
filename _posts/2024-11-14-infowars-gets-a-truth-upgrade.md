@@ -6,6 +6,7 @@ slug: infowars-gets-a-truth-upgrade
 categories: [new, society]
 tags: [humor]
 excerpt: "The Day Satire Won: The Onion&#8217;s Most Real Headline Yet In a plot twist that not even the greatest satirists could have dreamed up, America&#8217;s finest purveyors of fake news&hellip;"
+image: "/assets/images/uploads/4f3e03fa-3cb2-4f56-9fbb-ec57cccbceb4-1160x663.webp"
 ---
 
 <h1 class="wp-block-heading" id="h-the-day-satire-won-the-onion-s-most-real-headline-yet">The Day Satire Won: The Onion&#8217;s Most Real Headline Yet</h1>

@@ -2,6 +2,7 @@
 layout: page
 title: "Ghost"
 permalink: /music-video/ghost-the-band/
+image: "/assets/images/uploads/404.webp"
 ---
 {% include youtube.html id="VqoyKzgkqR4" title="Ghost - Square Hammer (Official Music Video)" %}
 <style>

@@ -2,6 +2,7 @@
 layout: page
 title: "Music Video"
 permalink: /music-video/
+image: "/assets/images/uploads/8ea26197-5de1-40e4-b45a-e137e46eacf1.webp"
 ---
 
 <h2 class="wp-block-heading alignfull has-text-align-center" id="h-music-that-soothes-the-soul-or-does-something-to-it-anyway">Music that soothes the soul. Or does something to it, anyway.</h2>

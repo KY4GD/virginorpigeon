@@ -6,6 +6,7 @@ slug: wealth-of-misconceptions
 categories: [new, society]
 tags: []
 excerpt: "Adam Smith, often regarded as the &#8220;father of modern economics,&#8221; is a figure whose ideas have been widely cited, admired, and, unfortunately, frequently misrepresented."
+image: "/assets/images/uploads/Wealth-of-Misconceptions.webp"
 ---
 
 <div class="wp-block-image">

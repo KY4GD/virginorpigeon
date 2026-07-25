@@ -6,6 +6,7 @@ slug: guardian-angel
 categories: [magick, thelema]
 tags: [magick, thelema]
 excerpt: "Crowley&#8217;s Personal Work with his HGA Aleister Crowley, a figure whose name is synonymous with 20th-century occultism and the founding of the religious philosophy known as Thelema, embarked on a&"
+image: "/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat-2.jpg"
 ---
 
 <h2 class="wp-block-heading">Crowley&#8217;s Personal Work with his HGA</h2>

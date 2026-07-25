@@ -6,6 +6,7 @@ slug: light-sound-machines-for-brainwave-entrainment
 categories: [psychology, zen-technoshamanism]
 tags: [magick]
 excerpt: "Light and sound machines, such as the Procyon, Breathworks Explorer, and Laxman, are innovative devices that combine visual stimulation and auditory tones to induce specific mental states and promote "
+image: "/assets/images/uploads/MindMachines-1.jpg"
 ---
 
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="223" loading="lazy" src="/assets/images/uploads/MindMachines-1.jpg" alt="" class="wp-image-7211" /></figure>

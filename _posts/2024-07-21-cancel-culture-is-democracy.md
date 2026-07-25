@@ -9,6 +9,7 @@ excerpt: "Consider these democratic parallels:
 &#8211; Voting at the ballot box vs. voting with your wallet
 &#8211; Petitioning the government vs. social media campaigns
 &#8211; Town hall debates vs. online dis"
+image: "/assets/images/uploads/Cancel-Culture-is-Democracy-1.jpeg"
 ---
 
 <div class="wp-block-image">

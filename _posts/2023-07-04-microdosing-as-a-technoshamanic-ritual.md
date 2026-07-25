@@ -6,6 +6,7 @@ slug: microdosing-as-a-technoshamanic-ritual
 categories: [psychedelia, psychology, zen-technoshamanism]
 tags: [technoshamanism]
 excerpt: "Microdosing LSD has gained significant attention in recent years as a contemporary practice for personal growth, cognitive enhancement, and exploring altered states of consciousness. This approach inv"
+image: "/assets/images/uploads/lsd4.jpeg"
 ---
 
 <div class="wp-block-image">

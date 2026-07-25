@@ -2,6 +2,7 @@
 layout: page
 title: "Under Construction"
 permalink: /gallery/
+image: "/assets/images/uploads/aor.jpg"
 ---
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-ad2f72ca wp-block-group-is-layout-flex"></div>

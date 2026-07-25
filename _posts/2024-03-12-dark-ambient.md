@@ -6,6 +6,7 @@ slug: dark-ambient
 categories: [music]
 tags: [dark-ambient]
 excerpt: "Introduction to Dark Ambient Music Within the expansive realm of dark ambient music, a subgenre exists that delves into the shadows. It conjures a sense of foreboding and mystery. This&hellip;"
+image: "/assets/images/uploads/coil-band.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-introduction-to-dark-ambient-music">Introduction to Dark Ambient Music</h2>

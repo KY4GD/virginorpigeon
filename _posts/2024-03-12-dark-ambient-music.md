@@ -6,6 +6,7 @@ slug: dark-ambient-music
 categories: [music]
 tags: [dark-ambient]
 excerpt: "Frisson and ASMR In the vast and intricate world of sensory experiences, certain phenomena and artistic expressions intertwine to create unique and profound moments of perception. This blog post delve"
+image: "/assets/images/uploads/christiandeath.jpg"
 ---
 
 <p></p>

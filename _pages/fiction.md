@@ -2,6 +2,7 @@
 layout: page
 title: "Fiction"
 permalink: /on-technoshamanism-and-magick/fiction/
+image: "/assets/images/uploads/christiandeath.jpg"
 ---
 
 <style>

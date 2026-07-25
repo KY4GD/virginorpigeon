@@ -2,6 +2,7 @@
 layout: page
 title: "Blog"
 permalink: /on-technoshamanism-and-magick/
+image: "/assets/images/uploads/MemeticWarfareandContagionthroughAlgorithmicAmplification.jpg"
 ---
 
 <ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="/wealth-of-misconceptions/" target="_blank">Wealth of Misconceptions: The Lost Lessons of Adam Smith</a></li>
