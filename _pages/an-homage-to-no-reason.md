@@ -34,7 +34,35 @@ permalink: /an-homage-to-no-reason/
 
 
 
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-core-group-is-layout-ad2f72ca wp-block-group-is-layout-flex">
+<style>
+/* Tidy the scattered About-page snapshots into a centered, uniform grid.
+   The originals were a nowrap flex row with mismatched inline widths
+   (194px, 233px, 178px, ...), which read as jumbled. */
+.about-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  max-width: 640px;
+  margin: 2rem auto;
+}
+.about-photo-grid figure {
+  margin: 0;
+  position: relative;
+}
+.about-photo-grid figure img {
+  /* override each image's odd inline width so the grid controls sizing */
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+}
+@media (max-width: 600px) {
+  .about-photo-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+<div class="about-photo-grid">
 <figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d032&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d032" class="wp-block-image size-thumbnail is-resized wp-lightbox-container"><img decoding="async" width="310" height="240" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/unitrunker-310x300-1.jpg" alt="" class="wp-image-9157" style="width:194px;height:auto"/><button
 			class="lightbox-trigger"
 			type="button"
