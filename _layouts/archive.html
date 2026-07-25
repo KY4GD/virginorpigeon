@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<article class="single-page">
+  <header class="page-header">
+    <div class="page-header-content">
+      <h1 class="page-title">{{ page.title }}</h1>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <section class="recent-posts">
+      <div class="post-grid">
+        {% for post in paginator.posts %}
+        <article class="post-card">
+          {% if post.featured_image %}
+          <a href="{{ post.url }}" class="post-card-image">
+            <img src="{{ post.featured_image }}" alt="{{ post.title }}" loading="lazy">
+          </a>
+          {% endif %}
+          <div class="post-card-body">
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+              {% if post.categories.size > 0 %}
+              <span class="post-cat">{{ post.categories | first }}</span>
+              {% endif %}
+            </div>
+            <h3 class="post-card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            {% if post.excerpt %}
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+            {% endif %}
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+
+      {% if paginator.total_pages > 1 %}
+      <nav class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="pagination-prev">&larr; Newer</a>
+        {% endif %}
+        <span class="pagination-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="pagination-next">Older &rarr;</a>
+        {% endif %}
+      </nav>
+      {% endif %}
+    </section>
+  </div>
+</article>
