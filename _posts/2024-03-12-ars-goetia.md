@@ -85,7 +85,7 @@ image: "/assets/images/uploads/ars-goetia.gif"
 
 
 
-<p>The role of the Lesser Key of Solomon within <a href="/ars-goetia" class="ek-link" target="_blank">Thelema</a>, a religious and philosophical system developed by Aleister Crowley, is complex. Thelema embraces the idea of individual <a href="/david-tibet-exploring-the-enigmatic-music-and-spiritual-influences/" target="_blank" rel="noopener"  data-wpil-monitor-id="208">spiritual freedom and personal exploration</a>. Crowley, initially fascinated by and engaged with various magical systems, including Goetic practices, eventually distanced himself from certain grimoires, such as the Ars Goetia, in his later years.</p>
+<p>The role of the Lesser Key of Solomon within <a href="/ars-goetia" class="ek-link" target="_blank">Thelema</a>, a religious and philosophical system developed by Aleister Crowley, is complex. Thelema embraces the idea of individual <a href="/music-video/current93/" target="_blank" rel="noopener"  data-wpil-monitor-id="208">spiritual freedom and personal exploration</a>. Crowley, initially fascinated by and engaged with various magical systems, including Goetic practices, eventually distanced himself from certain grimoires, such as the Ars Goetia, in his later years.</p>
 
 
 

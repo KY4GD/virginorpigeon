@@ -207,7 +207,7 @@ image: "/assets/images/uploads/Brainwave-Entrainment.jpg"
 
 
 
-<li><strong>Entrainment of Chaos</strong>: Discusses a new phenomenon called entrainment of chaos, where irregular behavior is seized by limit cycles, leading to chaotic cycles under specific conditions. This study could have significant implications for engineering <a href="/anti-mask-propaganda/" target="_blank" rel="noopener"  data-wpil-monitor-id="191">sciences</a>, brainwaves, and biomusicology phenomena. [Marat Akhmet, Mehmet Onur Fen]</li>
+<li><strong>Entrainment of Chaos</strong>: Discusses a new phenomenon called entrainment of chaos, where irregular behavior is seized by limit cycles, leading to chaotic cycles under specific conditions. This study could have significant implications for engineering <a href="/n95-masks/" target="_blank" rel="noopener"  data-wpil-monitor-id="191">sciences</a>, brainwaves, and biomusicology phenomena. [Marat Akhmet, Mehmet Onur Fen]</li>
 
 
 

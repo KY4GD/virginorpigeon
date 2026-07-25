@@ -17,7 +17,7 @@ image: "/assets/images/uploads/crowleypast3.jpeg"
 
 
 
-<p class="has-text-align-left"><br>One of <a href="/crowleys-influence/" target="_blank" rel="noopener" data-wpil-monitor-id="90">Crowley&#8217;s</a> most significant claims was that he believed himself to be the reincarnation of the Egyptian pharaoh Akhenaten. Akhenaten was known for his radical religious reforms, including the promotion of monotheism centered around the worship of the sun-disk Aten. Crowley saw himself as continuing Akhenaten&#8217;s work of unveiling hidden truths and initiating a spiritual revolution.</p>
+<p class="has-text-align-left"><br>One of <a href="/crowleys-reincarnation/" target="_blank" rel="noopener" data-wpil-monitor-id="90">Crowley&#8217;s</a> most significant claims was that he believed himself to be the reincarnation of the Egyptian pharaoh Akhenaten. Akhenaten was known for his radical religious reforms, including the promotion of monotheism centered around the worship of the sun-disk Aten. Crowley saw himself as continuing Akhenaten&#8217;s work of unveiling hidden truths and initiating a spiritual revolution.</p>
 
 
 

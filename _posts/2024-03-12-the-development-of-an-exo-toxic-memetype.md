@@ -13,7 +13,7 @@ image: "/assets/images/uploads/alan-watts.jpg"
 
 
 
-<p>The KKK&#8217;s <a href="/fraternal-order-of-freemasonry/" target="_blank" rel="noopener"  data-wpil-monitor-id="213">history</a> can be divided into three distinct waves:</p>
+<p>The KKK&#8217;s <a href="/category/occult-groups/" target="_blank" rel="noopener"  data-wpil-monitor-id="213">history</a> can be divided into three distinct waves:</p>
 
 
 
