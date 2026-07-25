@@ -1,0 +1,18 @@
+---
+layout: page
+title: "Nothing Here"
+permalink: /404.html
+sitemap: false
+---
+
+<p>That page does not exist. It may have been renamed, or the link that brought
+you here may be stale.</p>
+
+<p><a href="/">Return to the front page</a>, or browse by category:</p>
+
+<ul>
+  {% assign cats = site.categories | sort %}
+  {% for cat in cats %}
+  <li><a href="/category/{{ cat[0] }}/">{{ cat[0] | replace: '-', ' ' | capitalize }}</a></li>
+  {% endfor %}
+</ul>
