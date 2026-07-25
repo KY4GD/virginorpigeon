@@ -2,6 +2,11 @@ title: "Virgin or Pigeon"
 description: "Technoshamanism, 5GW, Cyberpunk, 93/93, Thelema"
 # Appended after the site title on the home page's <title> by jekyll-seo-tag.
 tagline: "Technoshamanism, 5GW, Cyberpunk, 93/93, Thelema"
+
+# Web3Forms access key for the /contact/ form. This is a public client-side key
+# (it ships in the page HTML by design), not a secret. Submissions are delivered
+# to the email registered with this key at web3forms.com.
+web3forms_key: "de764be4-4350-4631-bc53-b8d02be79f64"
 url: "https://virginorpigeon.net"
 baseurl: ""
 
