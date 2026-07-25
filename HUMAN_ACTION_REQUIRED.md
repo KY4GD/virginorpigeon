@@ -50,6 +50,7 @@ and the [Cache Rules API docs](https://developers.cloudflare.com/cache/how-to/ca
 | `Zone` → `Zone Settings` → `Edit` | SSL mode, Always Use HTTPS, TLS 1.3, Brotli, HTTP/3, Rocket Loader |
 | `Zone` → `DNS` → `Read` | Confirm proxy status. **Read only — I will not modify DNS.** |
 | `Zone` → `Cache Rules` → `Edit` | Static-asset cache rules |
+| `Zone` → `Single Redirect` → `Edit` | The `.org → .net` canonical 301 (dashboard: Rules → Redirect Rules). **This is the permission that was missing from the first token** — the UI label is "Single Redirect", not "Dynamic Redirect". |
 | `Zone` → `Zone WAF` → `Edit` | Free managed WAF ruleset |
 | `Zone` → `Analytics` → `Read` | Compare edge analytics against RUM analytics |
 
@@ -59,12 +60,11 @@ and the [Cache Rules API docs](https://developers.cloudflare.com/cache/how-to/ca
 |---|---|
 | `Account` → `Account Rulesets` → `Edit` | Required alongside Cache Rules per Cloudflare docs |
 | `Account` → `Account Filter Lists` → `Edit` | Required alongside Cache Rules per Cloudflare docs |
-| `Account` → `Cloudflare Pages` → `Read` | Confirm the Pages project, its build config and custom domains |
+| `Account` → `Cloudflare Pages` → `Edit` | Fix the soft-404: the Pages project returns HTTP 200 (the homepage) for every unknown URL, which keeps dead URLs indexed. Correcting `not_found_handling` needs Edit, not just Read. Also confirms the project, build config, and custom domains. |
 
 ### Deliberately NOT requested
 
 - `DNS Edit` — I will not touch DNS records or nameservers.
-- `Cloudflare Pages Edit` — not needed to audit; would let me alter deployments.
 - Billing, Membership, Zero Trust, SSL/Certificates Edit, Workers Scripts Edit — out of scope.
 
 ### One item I could not verify
