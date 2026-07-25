@@ -4,7 +4,7 @@ title: "Bad Religion"
 permalink: /music-video/bad-religion/
 ---
 
-<div class="wp-block-automatic-youtube-gallery-block"><div class="ayg ayg-error">Error 403 The provided API key has an IP address restriction. The originating IP address of the call (50.6.156.85) violates this restriction. : forbidden</div></div>
+{% include youtube.html id="12kcpP-8jfM" title="Bad Religion - American Jesus" %}
 
 
 <div style="text-align: center;"><a style="color: white; margin: 0 15px; text-decoration: none;" href="https://virginorpigeon.net" target="_blank">Home</a><a style="color: white; margin: 0 15px; text-decoration: none;" href="/an-homage-to-no-reason" target="_blank">About</a><a style="color: white; margin: 0 15px; text-decoration: none;" href="/on-technoshamanism-and-magick/" target="_blank">Blog</a></div>

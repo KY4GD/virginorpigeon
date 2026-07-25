@@ -1,0 +1,19 @@
+{% comment %}
+  Responsive YouTube embed.
+
+  Uses youtube-nocookie.com so the player does not set tracking cookies until
+  the visitor actually presses play, which keeps these pages consistent with
+  the site's privacy policy.
+
+  Usage: {% include youtube.html id="VIDEO_ID" title="Video title" %}
+{% endcomment %}
+<div class="video-embed" style="position: relative; aspect-ratio: 16 / 9; max-width: 100%; margin: 0 auto;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/{{ include.id }}?rel=0&amp;modestbranding=1&amp;iv_load_policy=3"
+    title="{{ include.title | escape }}"
+    style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>

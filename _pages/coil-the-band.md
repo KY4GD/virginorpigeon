@@ -4,9 +4,7 @@ title: "Coil"
 permalink: /music-video/coil-the-band/
 ---
 
-<div class="wp-block-automatic-youtube-gallery-block"><div class="ayg ayg-error">Error 403 The provided API key has an IP address restriction. The originating IP address of the call (50.6.156.85) violates this restriction. : forbidden</div></div>
-
-<div class="ayg ayg-error">Error 403 The provided API key has an IP address restriction. The originating IP address of the call (50.6.156.85) violates this restriction. : forbidden</div>
+{% include youtube.html id="efXXPYkBNuM" title="Time Machines (Coil) - Time Machines [Full Album]" %}
 <style>
 .lwrp.link-whisper-related-posts{
             

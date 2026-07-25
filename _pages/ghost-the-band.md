@@ -3,8 +3,7 @@ layout: page
 title: "Ghost"
 permalink: /music-video/ghost-the-band/
 ---
-
-<div class="ayg ayg-error">Error 403 The provided API key has an IP address restriction. The originating IP address of the call (50.6.156.85) violates this restriction. : forbidden</div>
+{% include youtube.html id="VqoyKzgkqR4" title="Ghost - Square Hammer (Official Music Video)" %}
 <style>
 .lwrp.link-whisper-related-posts{
             
