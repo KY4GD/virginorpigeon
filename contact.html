@@ -1,0 +1,66 @@
+---
+layout: page
+title: "Contact"
+permalink: /contact/
+description: "Get in touch with Virgin or Pigeon."
+---
+
+{% comment %}
+  Spam-protected contact form via Web3Forms (https://web3forms.com).
+  No backend to run; submissions are delivered by Web3Forms to the email that
+  owns the access key. Your email address is never exposed in the page source.
+
+  SETUP (one time): go to https://web3forms.com, enter your delivery address
+  (cfo@scorpiondata.org), and paste the access key you receive into
+  site.web3forms_key in _config.yml. Until that key is set, this shows a notice
+  instead of a broken form.
+{% endcomment %}
+
+<p>Questions, corrections, arcane transmissions — send them here. Your message
+goes straight to my inbox; your email address is never shown publicly.</p>
+
+{% if site.web3forms_key %}
+<form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
+  <input type="hidden" name="access_key" value="{{ site.web3forms_key }}">
+  <input type="hidden" name="subject" value="New message from virginorpigeon.net">
+  <input type="hidden" name="from_name" value="Virgin or Pigeon contact form">
+
+  <p>
+    <label for="cf-name">Name</label>
+    <input id="cf-name" type="text" name="name" autocomplete="name" required>
+  </p>
+  <p>
+    <label for="cf-email">Your email</label>
+    <input id="cf-email" type="email" name="email" autocomplete="email" required>
+  </p>
+  <p>
+    <label for="cf-message">Message</label>
+    <textarea id="cf-message" name="message" rows="6" required></textarea>
+  </p>
+
+  {% comment %} Honeypot: bots fill this hidden field; real people never see it. {% endcomment %}
+  <input type="checkbox" name="botcheck" class="hidden" style="display:none !important" tabindex="-1" autocomplete="off">
+
+  <p><button type="submit">Send message</button></p>
+</form>
+{% else %}
+<p><em>The contact form isn’t configured yet. Set <code>web3forms_key</code> in
+<code>_config.yml</code> to enable it.</em></p>
+{% endif %}
+
+<style>
+  .contact-form { max-width: 560px; }
+  .contact-form label { display: block; margin-bottom: .35rem; font-weight: 600; }
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+    width: 100%; padding: .7rem .8rem; font-size: 1.05rem; line-height: 1.4;
+    border: 1px solid rgba(128,128,128,.5); border-radius: 6px;
+    background: rgba(128,128,128,.06); color: inherit;
+  }
+  .contact-form button {
+    padding: .7rem 1.4rem; font-size: 1.05rem; border: 0; border-radius: 6px;
+    cursor: pointer; background: #6c4d43; color: #fff;
+  }
+  .contact-form button:hover { opacity: .9; }
+</style>
