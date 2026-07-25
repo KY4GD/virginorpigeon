@@ -6,6 +6,7 @@ slug: eli5-quantum-yin-yang-technoshamanism
 categories: [philosophy, psychedelia, zen-technoshamanism]
 tags: [philosophy, science, technoshamanism]
 excerpt: "We are living in a time of great social change. Digital transformation trends are becoming commonplace through metaphor. The Unicursal Hexagram and Connection of Opposites This is the Yin Yang&hellip;"
+image: "/assets/images/uploads/quantum-technoshamanism.jpg"
 ---
 
 <figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/quantum-technoshamanism.jpg" alt="quantum technoshamanism" class="wp-image-7954" /></figure>

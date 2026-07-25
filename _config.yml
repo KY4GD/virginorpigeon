@@ -1,5 +1,7 @@
 title: "Virgin or Pigeon"
 description: "Technoshamanism, 5GW, Cyberpunk, 93/93, Thelema"
+# Appended after the site title on the home page's <title> by jekyll-seo-tag.
+tagline: "Technoshamanism, 5GW, Cyberpunk, 93/93, Thelema"
 url: "https://virginorpigeon.net"
 baseurl: ""
 

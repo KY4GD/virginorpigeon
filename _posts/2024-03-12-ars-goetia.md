@@ -6,6 +6,7 @@ slug: ars-goetia
 categories: [magick, thelema]
 tags: [magick, thelema]
 excerpt: "The Ars Goetia, also recognized as The Lesser Key of Solomon, dates back to the 17th century and serves as a grimoire, or magick book, detailing the 72 demons of&hellip;"
+image: "/assets/images/uploads/ars-goetia.gif"
 ---
 
 <figure class="wp-block-image size-full"><img data-dominant-color="6f6752" data-has-transparency="true" decoding="async" width="600" height="200" loading="lazy" src="/assets/images/uploads/ars-goetia.gif" alt="ars goetia" class="wp-image-7845 has-transparency" style="--dominant-color: #6f6752; aspect-ratio:3/2;object-fit:cover"/></figure>

@@ -2,6 +2,7 @@
 layout: page
 title: "Copernicus"
 permalink: /music-video/copernicus/
+image: "/assets/images/uploads/ghost.jpg"
 ---
 {% include youtube.html id="SHRRECFVbic" title="Joe Meets Copernicus" %}
 

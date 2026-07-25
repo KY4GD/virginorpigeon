@@ -6,6 +6,7 @@ slug: egregore-creation-by-intent-and-the-currents-that-feed-them
 categories: [fifth-generation-warfare, magick, new, zen-technoshamanism]
 tags: []
 excerpt: "Egregore Creation by Intent &#8211; Everything is a God, if you make it one."
+image: "/assets/images/uploads/egregore4-2.jpg"
 ---
 
 <p><strong>Egregore creation by intent </strong>or through natural phenomenon, is a fascinating topic within the larger umbrella of memetics.</p>

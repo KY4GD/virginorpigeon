@@ -6,6 +6,7 @@ slug: dark-ambient-coil
 categories: [music]
 tags: [dark-ambient]
 excerpt: "To expand on the essay about the music of Coil, we will explore their experimental ethos, delve deeper into their discography highlighting key projects and their thematic significance, examine the&hel"
+image: "/assets/images/uploads/music-of-coil-2-scaled.jpg"
 ---
 
 <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">

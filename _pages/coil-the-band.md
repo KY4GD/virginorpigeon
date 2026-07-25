@@ -2,6 +2,7 @@
 layout: page
 title: "Coil"
 permalink: /music-video/coil-the-band/
+image: "/assets/images/uploads/scientology-for-profit.jpg"
 ---
 
 {% include youtube.html id="efXXPYkBNuM" title="Time Machines (Coil) - Time Machines [Full Album]" %}

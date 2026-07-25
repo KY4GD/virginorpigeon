@@ -6,6 +6,7 @@ slug: title-understanding-the-operating-thetan-levels-of-scientology
 categories: [occult-groups]
 tags: [dangerous-cults, scientology-beliefs, scientology-levels, scientology-practice, spiritual-advancement, spiritual-hierarchy]
 excerpt: "Scientology, a controversial and secretive religion founded by L. Ron Hubbard in the early 1950s, places significant emphasis on the concept of the &#8220;Operating Thetan&#8221; (OT). Operating Theta"
+image: "/assets/images/uploads/operating-thetan-levels-of-scientology.jpg"
 ---
 
 <figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/operating-thetan-levels-of-scientology.jpg" alt="operating thetan levels of scientology" class="wp-image-7866" /></figure>

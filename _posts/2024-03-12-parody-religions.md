@@ -6,6 +6,7 @@ slug: parody-religions
 categories: [humor, occult-groups, philosophy, religion, society, zen-technoshamanism]
 tags: [humor, magick]
 excerpt: "Parody: The Healing Voice of No Reason Satirical religions challenge conventional norms, and offer unique perspectives on spirituality. In a world dominated by mainstream religions, this is necessary."
+image: "/assets/images/uploads/parody-religions.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-parody-the-healing-voice-of-no-reason">Parody: The Healing Voice of No Reason</h2>

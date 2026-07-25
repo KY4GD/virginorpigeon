@@ -2,6 +2,7 @@
 layout: page
 title: "Thelemic Calendar"
 permalink: /thelemic-calendar/
+image: "/assets/images/uploads/images28129.jpeg"
 ---
 
 <div class='thelemic-calendar-wrapper' style='padding-top: 0px; padding-bottom: 0px;'>

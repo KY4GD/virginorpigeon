@@ -6,6 +6,7 @@ slug: preparing-for-the-ruby-star-ritual-tools-techniques-and-breathwork-for-beg
 categories: [ruby-star-ritual, ruby-star, thelema]
 tags: [magick, ruby-star-ritual]
 excerpt: "Ruby Star &#8211; Preparations The Ruby Star Ritual is a transformative practice in Thelema, aiming to purify and empower practitioners. To perform this ritual effectively, certain preparations and to"
+image: "/assets/images/uploads/8-circuit-model-of-consciousness-2.jpg"
 ---
 
 <h2 id="h-ruby-star-preparations" class="wp-block-heading">Ruby Star &#8211; Preparations</h2>

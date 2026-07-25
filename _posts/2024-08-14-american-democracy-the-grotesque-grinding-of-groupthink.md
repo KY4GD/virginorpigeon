@@ -6,6 +6,7 @@ slug: american-democracy-the-grotesque-grinding-of-groupthink
 categories: [new, society]
 tags: [history]
 excerpt: "The United States of America, once a beacon of unity and democracy, finds itself at a crossroads. The nation, built on ideals of liberty and equality, is grappling with deep divisions that threaten it"
+image: "/assets/images/uploads/grinding-of-groupthink.webp"
 ---
 
 <div class="wp-block-image">

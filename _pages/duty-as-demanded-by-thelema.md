@@ -2,6 +2,7 @@
 layout: page
 title: "Duty: As Demanded by Thelema"
 permalink: /an-homage-to-no-reason/duty-as-demanded-by-thelema/
+image: "/assets/images/uploads/A-New-Gospel-of-Liberty.jpg"
 ---
 
 <div class="wp-block-image">

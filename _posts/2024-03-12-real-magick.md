@@ -6,6 +6,7 @@ slug: real-magick
 categories: [magick]
 tags: [magick]
 excerpt: "Is Magick a Real Force? The concept of magic, or magick, is subjective and can be interpreted in various ways depending on one&#8217;s beliefs, cultural background, and personal experiences. It&hellip"
+image: "/assets/images/uploads/magckreal2.jpeg"
 ---
 
 <div class="wp-block-image">
