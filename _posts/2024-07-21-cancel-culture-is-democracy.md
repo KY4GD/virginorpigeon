@@ -12,7 +12,7 @@ excerpt: "Consider these democratic parallels:
 ---
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="640" height="427" loading="lazy" src="/assets/images/uploads/Cancel-Culture-is-Democracy-1.jpeg?resize=640%2C427&ssl=1" alt="Cancel Culture is Democracy" class="wp-image-7738" style="width:402px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="640" height="427" loading="lazy" src="/assets/images/uploads/Cancel-Culture-is-Democracy-1.jpeg" alt="Cancel Culture is Democracy" class="wp-image-7738" style="width:402px;height:auto" /></figure>
 </div>
 
 
@@ -56,7 +56,7 @@ excerpt: "Consider these democratic parallels:
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="97" height="150" loading="lazy" src="/assets/images/uploads/ccisdemocracy.jpg?resize=97%2C150&ssl=1" alt="Cancel Culture is Democracy" class="wp-image-7662" style="width:146px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="97" height="150" loading="lazy" src="/assets/images/uploads/ccisdemocracy.jpg" alt="Cancel Culture is Democracy" class="wp-image-7662" style="width:146px;height:auto" /></figure>
 </div>
 
 
@@ -80,7 +80,7 @@ excerpt: "Consider these democratic parallels:
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/b5a87ad2-e662-4247-8786-60576e9904508649273569366581253.webp?resize=1024%2C1024&ssl=1" alt="Cancel Culture is Democracy" class="wp-image-7292" style="width:334px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/b5a87ad2-e662-4247-8786-60576e9904508649273569366581253.webp" alt="Cancel Culture is Democracy" class="wp-image-7292" style="width:334px;height:auto" /></figure>
 </div>
 
 
@@ -116,7 +116,7 @@ excerpt: "Consider these democratic parallels:
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/1033082e-d3ed-4802-bdcf-40ba19efcf4b2330370299378143656.webp?resize=1024%2C1024&ssl=1" alt="Cancel Culture is Democracy" class="wp-image-7293" style="width:317px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/1033082e-d3ed-4802-bdcf-40ba19efcf4b2330370299378143656.webp" alt="Cancel Culture is Democracy" class="wp-image-7293" style="width:317px;height:auto" /></figure>
 </div>
 
 
@@ -204,7 +204,7 @@ excerpt: "Consider these democratic parallels:
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/298e940d-ba3b-4937-8e40-3a4c6df467dc5229032105284528074.webp?resize=1024%2C1024&ssl=1" alt="Cancel Culture is Democracy" class="wp-image-7291" style="width:328px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/298e940d-ba3b-4937-8e40-3a4c6df467dc5229032105284528074.webp" alt="Cancel Culture is Democracy" class="wp-image-7291" style="width:328px;height:auto" /></figure>
 </div>
 
 
@@ -272,7 +272,7 @@ excerpt: "Consider these democratic parallels:
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/6d0447d8-6175-40a5-9971-8224a62bf833-ezgif6738238334406573646.jpg?resize=1024%2C1024&ssl=1" alt="Cancel Culture is Democracy" class="wp-image-7289" style="width:380px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/6d0447d8-6175-40a5-9971-8224a62bf833-ezgif6738238334406573646.jpg" alt="Cancel Culture is Democracy" class="wp-image-7289" style="width:380px;height:auto" /></figure>
 </div>
 
 
@@ -409,9 +409,9 @@ margin-bottom: 30px;
         <div class="lwrp-list-container">
                                             <div class="lwrp-list-multi-container">
                     <ul class="lwrp-list lwrp-list-double lwrp-list-left">
-                        <li class="lwrp-list-item"><a href="/in-darkness-lies-darkness/" class="lwrp-list-link"><img loading="lazy" width="480" height="381" src="/assets/images/uploads/In-Darkness-Lies-Darkness.jpg?fit=480%2C381&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="In Darkness Lies Darkness, Dark literary colaboration" data-has-transparency="false" data-dominant-color="4c4c40" style="--dominant-color: #4c4c40;" /><br><span class="lwrp-list-link-title-text">In Darkness Lies Darkness: Maldoror Meets Joker</span></a></li><li class="lwrp-list-item"><a href="/thelemic-calendar/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Thelemic Calendar</span></a></li><li class="lwrp-list-item"><a href="/the-star-ruby-ritual/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/starrubyritual.webp?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="795f5b" style="--dominant-color: #795f5b;" /><br><span class="lwrp-list-link-title-text">Star Ruby Ritual: A Pathway to Inner Transformation</span></a></li><li class="lwrp-list-item"><a href="/thelema-eastern-and-western-individualism/" class="lwrp-list-link"><img loading="lazy" width="480" height="360" src="/assets/images/uploads/image.png?fit=480%2C360&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="5d3211" style="--dominant-color: #5d3211;" /><br><span class="lwrp-list-link-title-text">Thelema: Bridging Eastern Philosophy and Western Morality</span></a></li>                    </ul>
+                        <li class="lwrp-list-item"><a href="/in-darkness-lies-darkness/" class="lwrp-list-link"><img loading="lazy" width="480" height="381" src="/assets/images/uploads/In-Darkness-Lies-Darkness.jpg" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="In Darkness Lies Darkness, Dark literary colaboration" data-has-transparency="false" data-dominant-color="4c4c40" style="--dominant-color: #4c4c40;" /><br><span class="lwrp-list-link-title-text">In Darkness Lies Darkness: Maldoror Meets Joker</span></a></li><li class="lwrp-list-item"><a href="/thelemic-calendar/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Thelemic Calendar</span></a></li><li class="lwrp-list-item"><a href="/the-star-ruby-ritual/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/starrubyritual.webp" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="795f5b" style="--dominant-color: #795f5b;" /><br><span class="lwrp-list-link-title-text">Star Ruby Ritual: A Pathway to Inner Transformation</span></a></li><li class="lwrp-list-item"><a href="/thelema-eastern-and-western-individualism/" class="lwrp-list-link"><img loading="lazy" width="480" height="360" src="/assets/images/uploads/image.png" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="5d3211" style="--dominant-color: #5d3211;" /><br><span class="lwrp-list-link-title-text">Thelema: Bridging Eastern Philosophy and Western Morality</span></a></li>                    </ul>
                     <ul class="lwrp-list lwrp-list-double lwrp-list-right">
-                        <li class="lwrp-list-item"><a href="/preparing-for-the-ruby-star-ritual-tools-techniques-and-breathwork-for-beginners/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/6e468314-f937-4342-8f33-b37b5095487f.webp?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="Star Ruby Ritual: Pathway to Transformation" data-has-transparency="false" data-dominant-color="755e53" style="--dominant-color: #755e53;" /><br><span class="lwrp-list-link-title-text">Preparing for the Ruby Star Ritual: Tools, Techniques, and Breathwork for Beginners</span></a></li><li class="lwrp-list-item"><a href="/chaos-magick-the-sacred-chao/" class="lwrp-list-link"><img loading="lazy" width="300" height="300" src="/assets/images/uploads/Sacred-Chao-1.jpg?fit=300%2C300&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="Sacred Chao" data-has-transparency="false" data-dominant-color="c4c4c4" style="--dominant-color: #c4c4c4;" /><br><span class="lwrp-list-link-title-text">Chaos Magick: The Unpredictable Sacred Chao</span></a></li><li class="lwrp-list-item"><a href="/microdosing-as-a-technoshamanic-ritual/" class="lwrp-list-link"><img loading="lazy" width="200" height="291" src="/assets/images/uploads/Liquid2BLSD.jpeg-1.webp?fit=200%2C291&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="807d77" style="--dominant-color: #807d77;" /><br><span class="lwrp-list-link-title-text">LSD and other Psychedelics: Microdosing as a Technoshamanistic Ritual</span></a></li><li class="lwrp-list-item"><a href="/music-video/christian-death/" class="lwrp-list-link"><img loading="lazy" width="225" height="225" src="/assets/images/uploads/christiandeath.jpg?fit=225%2C225&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="5f6061" style="--dominant-color: #5f6061;" /><br><span class="lwrp-list-link-title-text">Christian Death</span></a></li>                    </ul>
+                        <li class="lwrp-list-item"><a href="/preparing-for-the-ruby-star-ritual-tools-techniques-and-breathwork-for-beginners/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/6e468314-f937-4342-8f33-b37b5095487f.webp" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="Star Ruby Ritual: Pathway to Transformation" data-has-transparency="false" data-dominant-color="755e53" style="--dominant-color: #755e53;" /><br><span class="lwrp-list-link-title-text">Preparing for the Ruby Star Ritual: Tools, Techniques, and Breathwork for Beginners</span></a></li><li class="lwrp-list-item"><a href="/chaos-magick-the-sacred-chao/" class="lwrp-list-link"><img loading="lazy" width="300" height="300" src="/assets/images/uploads/Sacred-Chao-1.jpg" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="Sacred Chao" data-has-transparency="false" data-dominant-color="c4c4c4" style="--dominant-color: #c4c4c4;" /><br><span class="lwrp-list-link-title-text">Chaos Magick: The Unpredictable Sacred Chao</span></a></li><li class="lwrp-list-item"><a href="/microdosing-as-a-technoshamanic-ritual/" class="lwrp-list-link"><img loading="lazy" width="200" height="291" src="/assets/images/uploads/Liquid2BLSD.jpeg-1.webp" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="807d77" style="--dominant-color: #807d77;" /><br><span class="lwrp-list-link-title-text">LSD and other Psychedelics: Microdosing as a Technoshamanistic Ritual</span></a></li><li class="lwrp-list-item"><a href="/music-video/christian-death/" class="lwrp-list-link"><img loading="lazy" width="225" height="225" src="/assets/images/uploads/christiandeath.jpg" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="5f6061" style="--dominant-color: #5f6061;" /><br><span class="lwrp-list-link-title-text">Christian Death</span></a></li>                    </ul>
                 </div>
                         </div>
 </div>

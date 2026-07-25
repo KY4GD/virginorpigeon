@@ -1,0 +1,25 @@
+---
+layout: page
+title: "404 — Page Not Found"
+permalink: /404.html
+sitemap: false
+---
+
+<p style="text-align: center; margin: 0 0 2rem;">
+  <img src="/assets/images/uploads/404.webp"
+       alt="A cyberpunk technoshaman in feathered helm and armor, holding a glowing staff and orb over a fog-wrapped alien city, captioned 404 Page Not Found"
+       style="max-width: 560px; width: 100%; height: auto; border-radius: 8px;"
+       loading="lazy">
+</p>
+
+<p>That page does not exist. It may have been renamed, or the link that brought
+you here may be stale.</p>
+
+<p><a href="/">Return to the front page</a>, or browse by category:</p>
+
+<ul>
+  {% assign cats = site.categories | sort %}
+  {% for cat in cats %}
+  <li><a href="/category/{{ cat[0] }}/">{{ cat[0] | replace: '-', ' ' | capitalize }}</a></li>
+  {% endfor %}
+</ul>

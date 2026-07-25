@@ -3,7 +3,13 @@ description: "Technoshamanism, 5GW, Cyberpunk, 93/93, Thelema"
 url: "https://virginorpigeon.net"
 baseurl: ""
 
-permalink: /:categories/:slug/
+# Builds run in UTC on Cloudflare Pages; pin it so local builds match production.
+timezone: America/New_York
+
+# Flat slugs, matching the pre-Jekyll WordPress URLs. Do not reintroduce
+# :categories here — it expands to *every* category in a post's front matter,
+# which produced six-level URLs and broke every inbound and internal link.
+permalink: /:slug/
 
 collections:
   pages:
@@ -36,11 +42,45 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
 
+# Category and tag archives. The navigation has always linked to /category/<name>/,
+# but these pages were never generated because autopages was left disabled.
+autopages:
+  enabled: true
+  categories:
+    enabled: true
+    layouts: ['archive.html']
+    title: 'Category: :cat'
+    permalink: '/category/:cat/'
+    slugify:
+      mode: 'raw'
+      cased: true
+  tags:
+    enabled: true
+    layouts: ['archive.html']
+    title: 'Tagged: :tag'
+    permalink: '/tag/:tag/'
+    slugify:
+      mode: 'raw'
+      cased: true
+  collections:
+    enabled: false
+
+# Music Video menu is hidden for now. Flip to true to bring it back.
+show_music_nav: false
+
 sass:
   style: compressed
+
+# Jekyll skips underscore-prefixed files by default, but Cloudflare Pages
+# requires _redirects at the root of the build output.
+include:
+  - _redirects
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
+  - HUMAN_ACTION_REQUIRED.md
+  - SITE_AUDIT.md
+  - _config.yml.bak
