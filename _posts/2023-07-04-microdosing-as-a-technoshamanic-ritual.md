@@ -9,7 +9,7 @@ excerpt: "Microdosing LSD has gained significant attention in recent years as a 
 ---
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd4.jpeg?resize=1024%2C1024&ssl=1" alt="" class="wp-image-10840" style="width:304px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd4.jpeg" alt="" class="wp-image-10840" style="width:304px;height:auto" /></figure>
 </div>
 
 
@@ -33,7 +33,7 @@ excerpt: "Microdosing LSD has gained significant attention in recent years as a 
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd3.jpeg?resize=1024%2C1024&ssl=1" alt="" class="wp-image-10841" style="width:306px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd3.jpeg" alt="" class="wp-image-10841" style="width:306px;height:auto" /></figure>
 </div>
 
 
@@ -89,7 +89,7 @@ excerpt: "Microdosing LSD has gained significant attention in recent years as a 
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd2.jpeg?resize=1024%2C1024&ssl=1" alt="" class="wp-image-10842" style="width:326px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd2.jpeg" alt="" class="wp-image-10842" style="width:326px;height:auto" /></figure>
 </div>
 
 
@@ -101,7 +101,7 @@ excerpt: "Microdosing LSD has gained significant attention in recent years as a 
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd1.jpeg?resize=1024%2C1024&ssl=1" alt="" class="wp-image-10844" style="width:301px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd1.jpeg" alt="" class="wp-image-10844" style="width:301px;height:auto" /></figure>
 </div>
 
 
@@ -129,7 +129,7 @@ excerpt: "Microdosing LSD has gained significant attention in recent years as a 
 
 
 <div class="wp-block-image sq_image">
-<figure class="aligncenter"><img decoding="async" loading="lazy" src="/assets/images/uploads/microdosing-as-a-technoshamanistic-ritual.jpg?w=1160&ssl=1" alt="microdosing as a technoshamanistic ritual"/></figure>
+<figure class="aligncenter"><img decoding="async" loading="lazy" src="/assets/images/uploads/microdosing-as-a-technoshamanistic-ritual.jpg" alt="microdosing as a technoshamanistic ritual"/></figure>
 </div>
 
 
@@ -246,9 +246,9 @@ margin-bottom: 30px;
         <div class="lwrp-list-container">
                                             <div class="lwrp-list-multi-container">
                     <ul class="lwrp-list lwrp-list-double lwrp-list-left">
-                        <li class="lwrp-list-item"><a href="/algorithmic-amplification-memetic-warfare/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/MemeticWarfareandContagionthroughAlgorithmicAmplification.jpg?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="Algorithmic Amplification" data-has-transparency="false" data-dominant-color="4d5761" style="--dominant-color: #4d5761;" /><br><span class="lwrp-list-link-title-text">Memetic Warfare and Contagion through Algorithmic Amplification</span></a></li><li class="lwrp-list-item"><a href="/the-russian-threat/" class="lwrp-list-link"><img loading="lazy" width="480" height="274" src="/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat-2.jpg?fit=480%2C274&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="отчаянный - Russian Threat" data-has-transparency="false" data-dominant-color="3f4d57" style="--dominant-color: #3f4d57;" /><br><span class="lwrp-list-link-title-text">отчаянный: The Russian Threat &#8211; How Less Presents Greater Danger</span></a></li><li class="lwrp-list-item"><a href="/light-and-sound-machines/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/hemisphericsynchronization.webp?fit=480%2C480&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="6a524f" style="--dominant-color: #6a524f;" /><br><span class="lwrp-list-link-title-text">Brainwave Entrainment and Hemispheric Synchronization</span></a></li><li class="lwrp-list-item"><a href="/music-video/copernicus/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Copernicus</span></a></li>                    </ul>
+                        <li class="lwrp-list-item"><a href="/algorithmic-amplification-memetic-warfare/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/MemeticWarfareandContagionthroughAlgorithmicAmplification.jpg" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="Algorithmic Amplification" data-has-transparency="false" data-dominant-color="4d5761" style="--dominant-color: #4d5761;" /><br><span class="lwrp-list-link-title-text">Memetic Warfare and Contagion through Algorithmic Amplification</span></a></li><li class="lwrp-list-item"><a href="/the-russian-threat/" class="lwrp-list-link"><img loading="lazy" width="480" height="274" src="/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat-2.jpg" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="отчаянный - Russian Threat" data-has-transparency="false" data-dominant-color="3f4d57" style="--dominant-color: #3f4d57;" /><br><span class="lwrp-list-link-title-text">отчаянный: The Russian Threat &#8211; How Less Presents Greater Danger</span></a></li><li class="lwrp-list-item"><a href="/light-and-sound-machines/" class="lwrp-list-link"><img loading="lazy" width="480" height="480" src="/assets/images/uploads/hemisphericsynchronization.webp" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="" data-has-transparency="false" data-dominant-color="6a524f" style="--dominant-color: #6a524f;" /><br><span class="lwrp-list-link-title-text">Brainwave Entrainment and Hemispheric Synchronization</span></a></li><li class="lwrp-list-item"><a href="/music-video/copernicus/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Copernicus</span></a></li>                    </ul>
                     <ul class="lwrp-list lwrp-list-double lwrp-list-right">
-                        <li class="lwrp-list-item"><a href="/music-video/bad-religion/" class="lwrp-list-link"><img loading="lazy" width="225" height="225" src="/assets/images/uploads/bad-religion.jpg?fit=225%2C225&ssl=1" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="bad religion" data-has-transparency="false" data-dominant-color="511919" style="--dominant-color: #511919;" /><br><span class="lwrp-list-link-title-text">Bad Religion</span></a></li><li class="lwrp-list-item"><a href="/404-page-not-found-2/" class="lwrp-list-link"><span class="lwrp-list-link-title-text"></span></a></li><li class="lwrp-list-item"><a href="/the-crucifucks/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">The Crucifucks</span></a></li><li class="lwrp-list-item"><a href="/freud-and-jung/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Sigmund Freud and Jung: Contributions to Occultist Thought</span></a></li>                    </ul>
+                        <li class="lwrp-list-item"><a href="/music-video/bad-religion/" class="lwrp-list-link"><img loading="lazy" width="225" height="225" src="/assets/images/uploads/bad-religion.jpg" class="attachment-480x480 size-480x480 not-transparent wp-post-image" alt="bad religion" data-has-transparency="false" data-dominant-color="511919" style="--dominant-color: #511919;" /><br><span class="lwrp-list-link-title-text">Bad Religion</span></a></li><li class="lwrp-list-item"><a href="/404-page-not-found-2/" class="lwrp-list-link"><span class="lwrp-list-link-title-text"></span></a></li><li class="lwrp-list-item"><a href="/the-crucifucks/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">The Crucifucks</span></a></li><li class="lwrp-list-item"><a href="/freud-and-jung/" class="lwrp-list-link"><span class="lwrp-list-link-title-text">Sigmund Freud and Jung: Contributions to Occultist Thought</span></a></li>                    </ul>
                 </div>
                         </div>
 </div>
