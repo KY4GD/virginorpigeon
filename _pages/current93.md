@@ -3,6 +3,10 @@ layout: page
 title: "Current 93"
 permalink: /music-video/current93/
 ---
+{% include youtube.html id="4WvWwCmSrTU" title="Broken Birds Fly I (Maldoror Waits)" %}
+{% include youtube.html id="dv4-ul0chNw" title="Silence As Christine" %}
+{% include youtube.html id="mo0UxZCZbJE" title="Current 93 - Hourglass For Diana" %}
+{% include youtube.html id="Gw9lC1EePSw" title="Current 93 - A Gothic Love Song" %}
 <style>
 .lwrp.link-whisper-related-posts{
             

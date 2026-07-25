@@ -41,6 +41,13 @@
 # --- Duplicate / renamed slugs ---
 /the-crucifucks-2/  /the-crucifucks/  301
 /copernicus/        /music-video/copernicus/  301
+# Link Whisper linked to a slug that never existed; point it at the real post.
+/raw-8-circuit-model/  /8-circuit-model-of-consciousness/  301
+
+# --- Old WordPress 404 pages (Link Whisper related-post thumbnails) ---
+# These were published "404" pages on WordPress; fold them into the real 404.
+/404-2/  /404.html  301
+/404-page-not-found-2/  /404.html  301
 
 # --- Old dated WordPress permalinks ---
 /2024/02/16/eli5-quantum-yin-yang-technoshamanism  /eli5-quantum-yin-yang-technoshamanism/  301

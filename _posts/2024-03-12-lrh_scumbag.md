@@ -3,6 +3,10 @@ layout: post
 title: "The History of L. Ron Hubbard, Aleister Crowley, Jack Parsons, and  Marjorie Cameron"
 date: 2024-03-12
 slug: lrh_scumbag
+# WordPress served this at /lrh_scumbag/ with an underscore. Jekyll's :slug
+# permalink slugifies that to lrh-scumbag, breaking every inbound link, so pin
+# the exact original URL here.
+permalink: /lrh_scumbag/
 categories: [occult-groups]
 tags: [thelema]
 excerpt: "The evolution of Scientology, a controversial religious movement developed by L. Ron Hubbard, is not without its captivating historical connections. This blog post dives deep into the intriguing relat"
