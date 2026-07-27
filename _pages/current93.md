@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Current 93"
+description: "Current 93 — David Tibet's apocalyptic folk and esoteric ritual, including \"Broken Birds Fly,\" gathered in video."
 permalink: /music-video/current93/
 image: "/assets/images/uploads/light-sound-machines-for-brainwave-entrainment.webp"
 ---

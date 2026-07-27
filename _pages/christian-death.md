@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Christian Death"
+description: "Christian Death — deathrock and gothic ritual in motion: \"Figurative Theater\" and other videos from Rozz Williams' seminal band."
 permalink: /music-video/christian-death/
 image: "/assets/images/uploads/parody-religions.webp"
 ---

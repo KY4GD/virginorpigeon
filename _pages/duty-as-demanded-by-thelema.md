@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Duty: As Demanded by Thelema"
+description: "Aleister Crowley's \"Duty\" — a practical guide to conduct under the Law of Thelema: your duty to self, to neighbours, to mankind, and to all beings."
 permalink: /an-homage-to-no-reason/duty-as-demanded-by-thelema/
 image: "/assets/images/uploads/A-New-Gospel-of-Liberty.jpg"
 ---

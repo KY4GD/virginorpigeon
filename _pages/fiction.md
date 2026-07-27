@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Fiction"
+description: "Short fiction from Virgin or Pigeon — technoshamanic, cyberpunk, and Thelemic stories from the edges of the 93 current."
 permalink: /on-technoshamanism-and-magick/fiction/
 image: "/assets/images/uploads/christiandeath.jpg"
 ---

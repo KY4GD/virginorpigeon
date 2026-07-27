@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy"
+description: "How Virgin or Pigeon handles visitor data and privacy — what is collected, why, and the choices available to you."
 permalink: /an-homage-to-no-reason/privacy-policy/
 image: "/assets/images/uploads/Privacy-Policy.webp"
 ---
