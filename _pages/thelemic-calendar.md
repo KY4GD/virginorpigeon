@@ -7,7 +7,6 @@ image: "/assets/images/uploads/images28129.jpeg"
 
 <div class="tc-panel">
   <div class="tc-inner">
-    <h2 class="tc-title">Thelemic Calendar</h2>
     <p class="tc-motto">Do what thou wilt shall be the whole of the Law.</p>
 
     <div class="tc-header" id="tc-header">
@@ -53,14 +52,15 @@ image: "/assets/images/uploads/images28129.jpeg"
 </details>
 
 <style>
+/* This page only: center the page title over the calendar and drop the
+   site-wide divider, so the one real title aligns with the panel beneath it. */
+.single-page .page-header{text-align:center;border-bottom:none;margin-bottom:1.1rem;}
 .tc-panel{max-width:640px;margin:2rem auto;padding:2px;
   background:linear-gradient(135deg,#8a6508,#d4a017 40%,#b8860b 60%,#7a5807);
   border-radius:10px;box-shadow:0 10px 44px rgba(0,0,0,.55);}
 .tc-inner{background:radial-gradient(circle at 50% -10%,#20201d,#111112 72%);
   border-radius:9px;padding:2.4rem 1.8rem 2rem;color:#e8e0cf;
   font-family:Georgia,"Times New Roman",serif;text-align:center;}
-.tc-title{font-size:1.9rem;letter-spacing:.09em;color:#d4a017;margin:0 0 .35rem;
-  text-transform:uppercase;font-weight:400;}
 .tc-motto{font-style:italic;color:#b9ad8f;font-size:.98rem;margin:.2rem 0 1.5rem;}
 .tc-motto-end{margin:1.7rem 0 0;}
 .tc-header{font-size:1.18rem;line-height:2;color:#f0e9d6;margin:1rem 0 .3rem;}
@@ -86,7 +86,7 @@ image: "/assets/images/uploads/images28129.jpeg"
   font-family:Georgia,serif;}
 .tc-about summary{cursor:pointer;color:#b8860b;letter-spacing:.04em;}
 .tc-about p{line-height:1.65;margin:.7rem 0;}
-@media(max-width:480px){.tc-header{font-size:1.02rem}.tc-title{font-size:1.5rem}
+@media(max-width:480px){.tc-header{font-size:1.02rem}
   .tc-feast-name{font-size:1.12rem}}
 </style>
 
