@@ -69,6 +69,10 @@ a:hover { color: var(--color-white); }
 
 /* ---- Desktop Nav ---- */
 .desktop-nav { margin-left: auto; }
+/* The last nav link's text was inset ~12px by its button padding, so it didn't
+   line up flush with the logo on the left. Pull the row over by that padding so
+   the right edge of the last label matches the logo's left edge. */
+.desktop-nav .nav-list { margin-right: -0.75rem; }
 .nav-list {
   list-style: none;
   display: flex;
