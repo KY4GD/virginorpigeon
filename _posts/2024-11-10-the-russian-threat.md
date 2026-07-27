@@ -6,7 +6,7 @@ slug: the-russian-threat
 categories: [fifth-generation-warfare, new, society]
 tags: [russian-threat]
 excerpt: "&#8220;The whole art of war consists of getting at what is on the other side of the hill.&#8221; &#8212; The Duke of Wellington Imagine a chess player who, facing defeat,&hellip;"
-image: "/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat-3.jpg"
+image: "/assets/images/uploads/russian-threat-3.jpg"
 ---
 
 <p><em>&#8220;The whole art of war consists of getting at what is on the other side of the hill.&#8221;</em> &#8212; The Duke of Wellington</p>
@@ -45,7 +45,7 @@ image: "/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="585" loading="lazy" src="/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat-3.jpg" alt="отчаянный - The Russian Threat" class="wp-image-8280" style="width:537px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="585" loading="lazy" src="/assets/images/uploads/russian-threat-3.jpg" alt="отчаянный - The Russian Threat" class="wp-image-8280" style="width:537px;height:auto" /></figure>
 </div>
 
 
@@ -173,7 +173,7 @@ image: "/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="585" loading="lazy" src="/assets/images/uploads/_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat.jpg" alt="отчаянный 0 Russian Threat" class="wp-image-8278" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="585" loading="lazy" src="/assets/images/uploads/russian-threat.jpg" alt="отчаянный 0 Russian Threat" class="wp-image-8278" style="width:540px;height:auto" /></figure>
 </div>
 
 
