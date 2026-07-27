@@ -2,10 +2,10 @@
 layout: home
 title: "Front"
 permalink: /home-page/
-image: "/assets/images/uploads/cropped-_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat-background.jpg"
+image: "/assets/images/uploads/cropped-russian-threat-background.jpg"
 ---
 
-<div class="wp-block-cover aligncenter has-custom-content-position is-position-top-center"><img decoding="async" width="512" height="512" loading="lazy" class="wp-block-cover__image-background wp-image-8599" alt="отчаянный - Russian Threat" src="/assets/images/uploads/cropped-_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat-background.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-cover aligncenter has-custom-content-position is-position-top-center"><img decoding="async" width="512" height="512" loading="lazy" class="wp-block-cover__image-background wp-image-8599" alt="отчаянный - Russian Threat" src="/assets/images/uploads/cropped-russian-threat-background.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <h2 class="wp-block-heading has-text-align-center has-cyan-bluish-gray-color has-text-color has-link-color wp-elements-dcbefef715cfc2d39c6bbb81e8c359e0" id="h-love-is-the-law">Love is the Law</h2>
 </div></div>
 
@@ -15,7 +15,7 @@ image: "/assets/images/uploads/cropped-_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_B
 
 
 
-<div class="wp-block-cover"><img decoding="async" width="512" height="512" loading="lazy" class="wp-block-cover__image-background wp-image-8599" alt="отчаянный - Russian Threat" src="/assets/images/uploads/cropped-_D0_BE_D1_82_D1_87_D0_B0_D1_8F_D0_BD_D0_BD_D1_8B_D0_B9-Russian-Threat-background.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-cover"><img decoding="async" width="512" height="512" loading="lazy" class="wp-block-cover__image-background wp-image-8599" alt="отчаянный - Russian Threat" src="/assets/images/uploads/cropped-russian-threat-background.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <h2 class="wp-block-heading has-text-align-center has-cyan-bluish-gray-color has-text-color has-link-color wp-elements-60f4746f980b9ec8c8d0adabdd942e09" id="h-love-under-will">Love under Will</h2>
 </div></div>
 
