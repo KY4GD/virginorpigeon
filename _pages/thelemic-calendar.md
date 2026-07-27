@@ -52,9 +52,9 @@ image: "/assets/images/uploads/images28129.jpeg"
 </details>
 
 <style>
-/* This page only: center the page title over the calendar and drop the
-   site-wide divider, so the one real title aligns with the panel beneath it. */
-.single-page .page-header{text-align:center;border-bottom:none;margin-bottom:1.1rem;}
+/* This page only: drop the divider under the (now globally centered) title,
+   so it sits cleanly above the gold panel. */
+.single-page .page-header{border-bottom:none;margin-bottom:1.1rem;}
 .tc-panel{max-width:640px;margin:2rem auto;padding:2px;
   background:linear-gradient(135deg,#8a6508,#d4a017 40%,#b8860b 60%,#7a5807);
   border-radius:10px;box-shadow:0 10px 44px rgba(0,0,0,.55);}

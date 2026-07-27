@@ -31,6 +31,7 @@ body {
   font-family: var(--font-sans);
   line-height: 1.7;
   min-height: 100vh;
+  overflow-wrap: break-word;   /* long URLs/words wrap instead of forcing sideways scroll */
 }
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--color-accent-light); text-decoration: none; transition: color 0.2s; }
@@ -234,13 +235,14 @@ a:hover { color: var(--color-white); }
 }
 .section-title {
   font-family: var(--font-serif);
-  font-size: 1.6rem;
+  font-size: clamp(1.35rem, 4vw, 1.6rem);
   font-weight: 400;
   font-style: italic;
   color: var(--color-white);
   margin-bottom: 2rem;
   padding-bottom: 0.75rem;
   border-bottom: 1px solid var(--color-border);
+  text-align: center;
 }
 
 /* ---- Post Grid ---- */
@@ -417,10 +419,11 @@ a:hover { color: var(--color-white); }
   margin-bottom: 2rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--color-border);
+  text-align: center;
 }
 .page-title {
   font-family: var(--font-serif);
-  font-size: 2rem;
+  font-size: clamp(1.5rem, 5vw, 2rem);
   font-weight: 400;
   font-style: italic;
   color: var(--color-white);
@@ -439,14 +442,50 @@ a:hover { color: var(--color-white); }
 .footer-inner { max-width: var(--max-width); margin: 0 auto; }
 .site-footer p { color: var(--color-text-muted); font-size: 0.85rem; margin-bottom: 0.25rem; }
 
+/* ---- Tables (WP content can include them; keep them from overflowing) ---- */
+.post-body table, .page-body table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;                 /* wide tables scroll inside their own box */
+  border-collapse: collapse;
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+}
+.post-body th, .post-body td,
+.page-body th, .page-body td {
+  border: 1px solid var(--color-border);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+.post-body th, .page-body th { background: var(--color-surface2); color: var(--color-white); }
+
 /* ---- Responsive ---- */
+/* Tablet / large phone */
 @media (max-width: 768px) {
   .desktop-nav { display: none; }
   .nav-toggle { display: flex; }
   .post-grid { grid-template-columns: 1fr; }
   .post-nav { grid-template-columns: 1fr; }
   .home-hero { background-attachment: scroll; }
+  .home-content { padding: 2rem 1rem; }
   .single-post, .single-page { padding: 2rem 1rem; }
+  /* featured-image bleed must match the reduced side padding, or it scrolls sideways */
+  .post-header.has-featured-image { margin-left: -1rem; margin-right: -1rem; }
+  .has-featured-image .post-header-content { padding: 1.5rem 1rem; }
+  .post-featured-image, .post-featured-image img { height: 320px; }
+}
+/* Phone */
+@media (max-width: 480px) {
+  .header-inner { padding: 0 1rem; gap: 1rem; }
+  .home-hero { height: 70vh; min-height: 360px; }
+  .home-content { padding: 1.5rem 1rem; }
+  .single-post, .single-page { padding: 1.5rem 1rem; }
+  .post-featured-image, .post-featured-image img { height: 240px; }
+  .post-card-image img { height: 180px; }
+  .post-meta { flex-wrap: wrap; gap: 0.4rem; }
+  .pagination { gap: 0.6rem; flex-wrap: wrap; }
+  .pagination a { padding: 0.5rem 0.9rem; }
 }
 
 /* ---- WP content cleanup ---- */
