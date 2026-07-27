@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Crucifucks"
+description: "The Crucifucks — anarchist hardcore-punk provocation on video, including \"Hinkley Had a Vision,\" from the notorious Michigan band."
 permalink: /the-crucifucks/
 image: "/assets/images/uploads/images.webp"
 ---

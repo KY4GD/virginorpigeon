@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Under Construction"
+description: "The Virgin or Pigeon gallery — a visual collection of esoteric and technoshamanic art. Currently under construction."
 permalink: /gallery/
 image: "/assets/images/uploads/aor.jpg"
 ---

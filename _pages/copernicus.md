@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Copernicus"
+description: "Copernicus — cosmic spoken-word nihilism and experimental sound from the philosopher-musician, in selected video."
 permalink: /music-video/copernicus/
 image: "/assets/images/uploads/ghost.jpg"
 ---

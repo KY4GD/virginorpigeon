@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ghost"
+description: "Ghost — theatrical occult rock and anti-clerical spectacle from the Swedish band, in selected video."
 permalink: /music-video/ghost-the-band/
 image: "/assets/images/uploads/404.webp"
 ---

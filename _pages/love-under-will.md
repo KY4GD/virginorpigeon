@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Love under Will"
+description: "“Love is the law, love under will.” A meditation on the second half of the Law of Thelema and the union of love and true will."
 permalink: /love-under-will/
 image: "/assets/images/uploads/images.webp"
 ---
