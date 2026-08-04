@@ -3,8 +3,12 @@ layout: page
 title: "Current 93"
 description: "Current 93 — David Tibet's apocalyptic folk and esoteric ritual, including \"Broken Birds Fly,\" gathered in video."
 permalink: /music-video/current93/
-image: "/assets/images/uploads/light-sound-machines-for-brainwave-entrainment.webp"
+image: "/assets/images/uploads/current93.webp"
 ---
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="770" height="604" loading="lazy" src="/assets/images/uploads/current93.webp" alt="Current 93 photographed beside a carved standing stone" style="width:480px;height:auto" /></figure>
+</div>
+
 {% include youtube.html id="4WvWwCmSrTU" title="Broken Birds Fly I (Maldoror Waits)" %}
 {% include youtube.html id="dv4-ul0chNw" title="Silence As Christine" %}
 {% include youtube.html id="mo0UxZCZbJE" title="Current 93 - Hourglass For Diana" %}

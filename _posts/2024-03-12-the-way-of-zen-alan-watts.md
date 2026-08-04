@@ -6,7 +6,7 @@ slug: the-way-of-zen-alan-watts
 categories: [philosophy, psychology]
 tags: [history, philosophy]
 excerpt: "Alan Watts was a prominent philosopher, writer, and speaker known for his unique perspectives on Eastern philosophy, spirituality, and the human experience. This article delves into the life and teach"
-image: "/assets/images/uploads/6e468314-f937-4342-8f33-b37b5095487f.webp"
+image: "/assets/images/uploads/alan-watts.jpg"
 ---
 
 <p><strong>Alan Watts </strong>was a prominent philosopher, writer, and speaker known for his unique perspectives on Eastern philosophy, spirituality, and the human experience. This article delves into the life and teachings of Alan Watts, highlighting some of his insightful quotes that can inspire and enhance our lives. Furthermore, we will explore any connections between Watts and Timothy Leary, as well as the intersections between Watts&#8217; beliefs and contemporary occultism, particularly Thelema.</p>

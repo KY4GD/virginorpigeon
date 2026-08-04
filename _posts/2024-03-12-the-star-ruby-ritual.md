@@ -6,7 +6,7 @@ slug: the-star-ruby-ritual
 categories: [ruby-star, thelema]
 tags: [magick]
 excerpt: "The Ruby Star Ritual, also known as the Star Ruby, is a powerful ceremonial practice within the system of Thelema. Developed by Aleister Crowley, it serves as a purification and&hellip;"
-image: "/assets/images/uploads/magickreak1.jpeg"
+image: "/assets/images/uploads/starrubyritual.webp"
 ---
 
 <p class="has-text-align-left">The Ruby Star Ritual, also known as the Star Ruby, is a powerful ceremonial practice within the system of Thelema. Developed by Aleister Crowley, it serves as a purification and banishing ritual, aiming to cleanse the practitioner&#8217;s energetic and mental space while invoking protective forces. In this section, we will provide a thorough description of how to perform the Ruby Star Ritual and delve into its specific goals and intentions.</p>
@@ -74,6 +74,11 @@ image: "/assets/images/uploads/magickreak1.jpeg"
 
 
 <p>The image of the radiant ruby star represents the divine spark within each individual. It symbolizes the inner light, power, and potential that resides within us all. In the 21st century, this metaphor reminds us of the importance of recognizing our inherent divinity and embracing our unique gifts and abilities. It encourages us to tap into our inner brilliance and express it authentically in all aspects of our lives.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/starrubyritual.webp" alt="A lone figure standing in a blazing zodiacal circle inside a pillared temple" style="width:420px;height:auto" /></figure>
+</div>
 
 
 

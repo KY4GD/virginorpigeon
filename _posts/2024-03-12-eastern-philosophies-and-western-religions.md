@@ -6,7 +6,7 @@ slug: eastern-philosophies-and-western-religions
 categories: [philosophy, religion]
 tags: [history, magick, religion]
 excerpt: "Throughout history, humanity has sought answers to profound questions about existence, purpose, and the nature of reality. This quest has led to the development of diverse belief systems and philosoph"
-image: "/assets/images/uploads/In-Darkness-Lies-Darkness.jpg"
+image: "/assets/images/uploads/Religion-Versus-Philosophy.webp"
 ---
 
 <p>Throughout history, humanity has sought answers to profound questions about existence, purpose, and the nature of reality. This quest has led to the development of diverse belief systems and philosophical traditions across the globe. In this post, we will compare the history of Eastern philosophies and Western religions, their evolutionary development, and the establishment of schools and temples, with the Western approach to religion, characterized by politically motivated churches, witch covens, and the Inquisition. By examining these differences, we can glean valuable insights and lessons for humanity&#8217;s collective growth and understanding.</p>

@@ -6,7 +6,7 @@ slug: unveiling-the-mysteries-the-history-of-ghost-and-their-occult-metal-legacy
 categories: [music]
 tags: [occult-metal]
 excerpt: "Ghost, the enigmatic occult metal band, has captivated audiences worldwide with their dark and melodic sound, theatrical performances, and cryptic imagery. This article delves into the history of Ghos"
-image: "/assets/images/uploads/yinyang.jpg"
+image: "/assets/images/uploads/ghost.jpg"
 ---
 
 <p>Ghost, the enigmatic occult metal band, has captivated audiences worldwide with their dark and melodic sound, theatrical performances, and cryptic imagery. This article delves into the history of Ghost, exploring the mythology they have crafted around their &#8220;Church,&#8221; their music, and the connections between Tobias Forge (the mastermind behind Ghost) and Freemasonry. Additionally, we will examine any potential influences of Thelema within their music and aesthetic.</p>

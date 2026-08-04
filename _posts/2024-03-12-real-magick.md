@@ -10,7 +10,7 @@ image: "/assets/images/uploads/magckreal2.jpeg"
 ---
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/magckreal2.jpeg" alt="" class="wp-image-10821" style="width:428px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/magckreal2.jpeg" alt="A framed portrait split between a man&#8217;s face and an ornate mandala of entwined figures" class="wp-image-10821" style="width:428px;height:auto" /></figure>
 </div>
 
 

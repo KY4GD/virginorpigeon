@@ -6,7 +6,7 @@ slug: guardian-angel
 categories: [magick, thelema]
 tags: [magick, thelema]
 excerpt: "Crowley&#8217;s Personal Work with his HGA Aleister Crowley, a figure whose name is synonymous with 20th-century occultism and the founding of the religious philosophy known as Thelema, embarked on a&"
-image: "/assets/images/uploads/russian-threat-2.jpg"
+image: "/assets/images/uploads/images28129.jpeg"
 ---
 
 <h2 class="wp-block-heading">Crowley&#8217;s Personal Work with his HGA</h2>
@@ -81,7 +81,7 @@ image: "/assets/images/uploads/russian-threat-2.jpg"
 
 
 
-<h1 class="wp-block-heading">The Concept of the Holy Guardian Angel of Thelemic in Texts</h1>
+<h2 class="wp-block-heading">The Concept of the Holy Guardian Angel of Thelemic in Texts</h2>
 
 
 

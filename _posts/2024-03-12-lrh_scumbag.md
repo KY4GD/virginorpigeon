@@ -14,7 +14,7 @@ image: "/assets/images/uploads/1000024089.jpg"
 ---
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img decoding="async" width="188" height="268" loading="lazy" src="/assets/images/uploads/1000024089.jpg" alt="" class="wp-image-10784" /></figure>
+<figure class="aligncenter size-full"><img decoding="async" width="188" height="268" loading="lazy" src="/assets/images/uploads/1000024089.jpg" alt="Black and white photograph of L. Ron Hubbard in later life" class="wp-image-10784" /></figure>
 </div>
 
 

@@ -4,6 +4,11 @@ title: "Under Construction"
 description: "The Virgin or Pigeon gallery — a visual collection of esoteric and technoshamanic art. Currently under construction."
 permalink: /gallery/
 image: "/assets/images/uploads/aor.jpg"
+# Hidden while under construction: kept out of the nav (see show_gallery_nav in
+# _config.yml), the sitemap, and the Pagefind search index. The URL still works
+# because several posts link to it.
+hidden: true
+sitemap: false
 ---
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-ad2f72ca wp-block-group-is-layout-flex"></div>
@@ -19,15 +24,15 @@ image: "/assets/images/uploads/aor.jpg"
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" data-id="1997" src="/assets/images/uploads/aor.jpg" alt="" class="wp-image-1997"/><figcaption class="wp-element-caption">APR AR-8200</figcaption></figure>
+<figure class="wp-block-image size-large"><img width="706" height="941" decoding="async" loading="lazy" data-id="1997" src="/assets/images/uploads/aor.jpg" alt="A hand holding an AOR AR8200 wide-range handheld scanner" class="wp-image-1997"/><figcaption class="wp-element-caption">APR AR-8200</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" data-id="951" src="/assets/images/uploads/unidenscanner.jpg" alt="" class="wp-image-951"/><figcaption class="wp-element-caption">Bearcat 780D</figcaption></figure>
+<figure class="wp-block-image size-large"><img width="706" height="941" decoding="async" loading="lazy" data-id="951" src="/assets/images/uploads/unidenscanner.jpg" alt="A Uniden Bearcat desktop scanner in front of a computer monitor" class="wp-image-951"/><figcaption class="wp-element-caption">Bearcat 780D</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img height="1024" width="565" decoding="async" loading="lazy" data-id="619" src="/assets/images/uploads/glengoolie1968165566924193903.jpg" alt="" class="wp-image-619"/><figcaption class="wp-element-caption">Glengoolie Blue</figcaption></figure>
+<figure class="wp-block-image size-large"><img height="1024" width="565" decoding="async" loading="lazy" data-id="619" src="/assets/images/uploads/glengoolie1968165566924193903.jpg" alt="A hand holding a bottle of Glengoolie Blue" class="wp-image-619"/><figcaption class="wp-element-caption">Glengoolie Blue</figcaption></figure>
 </figure>
 <style>
 .lwrp.link-whisper-related-posts{

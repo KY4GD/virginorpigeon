@@ -9,7 +9,7 @@ excerpt: "Timothy Leary, a psychologist and philosopher, lived from 1920 to 1996
 image: "/assets/images/uploads/Dr.Timothy_Leary_Pioneer.jpg"
 ---
 
-<figure class="wp-block-image size-full"><img data-dominant-color="636363" data-has-transparency="false" style="--dominant-color: #636363;" decoding="async" loading="lazy" src="/assets/images/uploads/Dr.Timothy_Leary_Pioneer.jpg" alt="Timothy Leary" class="wp-image-6857 not-transparent"/></figure>
+<figure class="wp-block-image size-full"><img width="554" height="554" data-dominant-color="636363" data-has-transparency="false" style="--dominant-color: #636363;" decoding="async" loading="lazy" src="/assets/images/uploads/Dr.Timothy_Leary_Pioneer.jpg" alt="Timothy Leary" class="wp-image-6857 not-transparent"/></figure>
 
 
 
@@ -78,6 +78,11 @@ image: "/assets/images/uploads/Dr.Timothy_Leary_Pioneer.jpg"
 
 
 <p>Dr. Leary&#8217;s influence on the fields of psychology, philosophy, and counterculture cannot be overstated. Leary&#8217;s advocacy for psychedelic exploration and personal freedom significantly impacted the cultural landscape of the 1960s and beyond. Moreover, despite controversy and criticism, he remains an iconic figure in psychedelic research and countercultural movements. His ideas and methods continue to influence discussions on consciousness and freedom.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="512" height="600" loading="lazy" src="/assets/images/uploads/acleary-1-512x600-1.webp" alt="Timothy Leary grinning in later life" style="width:330px;height:auto" /></figure>
+</div>
 
 
 

@@ -50,6 +50,11 @@ image: "/assets/images/uploads/ruby-star-ritual-2.jpg"
 <p>While it&#8217;s natural to strive for accurate pronunciation and phrasing, the true essence of the <a href="/ruby-star-ritual/" target="_blank" rel="noopener"  data-wpil-monitor-id="151">Ruby Star Ritual</a> lies in the practitioner&#8217;s intent and presence. The following points emphasize why practice and understanding are more critical than perfect recitation:</p>
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/practice.webp" alt="Robed practitioners kneeling together in a candlelit pentagram circle" style="width:400px;height:auto" /></figure>
+</div>
+
+
 
 <ol class="wp-block-list">
 <li><strong>Intent and Focus</strong>:</li>

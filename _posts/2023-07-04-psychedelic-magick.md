@@ -74,7 +74,7 @@ image: "/assets/images/uploads/psychedelic-magick-4.jpg"
 
 
 
-<figure class="wp-block-image sq_image"><img decoding="async" loading="lazy" src="/assets/images/uploads/psychedelic-magick.jpg" alt="psychedelic magick"/></figure>
+<figure class="wp-block-image sq_image"><img width="640" height="427" decoding="async" loading="lazy" src="/assets/images/uploads/psychedelic-magick.jpg" alt="psychedelic magick"/></figure>
 
 
 

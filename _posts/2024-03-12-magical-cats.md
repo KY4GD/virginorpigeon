@@ -29,7 +29,7 @@ image: "/assets/images/uploads/abby2.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1160" height="1547" loading="lazy" src="/assets/images/uploads/abby2.jpg" alt="" class="wp-image-10686" style="width:269px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1160" height="1547" loading="lazy" src="/assets/images/uploads/abby2.jpg" alt="A white and black cat resting on a blanket" class="wp-image-10686" style="width:269px;height:auto" /></figure>
 </div>
 
 
@@ -102,6 +102,11 @@ image: "/assets/images/uploads/abby2.jpg"
 
 
 <p>Cats have been a subject of fascination in art and iconography, depicted in various forms from ancient Egyptian sculptures to modern digital art. Artists have captured the elegance, mystique, and enigmatic nature of cats, often using them as motifs to convey deeper meanings or simply to celebrate their beauty. The widespread portrayal of cats in art underscores their perpetual influence on human creativity and aesthetics.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1080" height="1085" loading="lazy" src="/assets/images/uploads/Divine-Felines.webp" alt="Impressionist painting of cats gathered in a sunlit meadow" style="width:420px;height:auto" /></figure>
+</div>
 
 
 
