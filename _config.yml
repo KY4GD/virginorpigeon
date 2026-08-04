@@ -82,6 +82,11 @@ autopages:
 # Music Video menu is hidden for now. Flip to true to bring it back.
 show_music_nav: false
 
+# Gallery menu is hidden while the page is under construction. Flip to true to
+# bring it back. The /gallery/ URL still resolves either way — several posts
+# link to it, so the page itself must keep existing.
+show_gallery_nav: false
+
 sass:
   style: compressed
 
