@@ -6,7 +6,26 @@ permalink: /an-homage-to-no-reason/
 image: "/assets/images/uploads/bolhou.jpg"
 ---
 
-<div class="wp-block-cover aligncenter has-custom-content-position is-position-bottom-center has-small-font-size" style="min-height:463px;aspect-ratio:unset;"><img decoding="async" width="1160" height="653" loading="lazy" class="wp-block-cover__image-background wp-image-9958" alt="" src="/assets/images/uploads/bolhou.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim" style="background-color:#797a5e"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<style>
+/* Restore the cover block's intended bottom-centre caption overlay.
+   The original WordPress cover CSS is not part of this theme, so the caption
+   fell below the photo. The image stays in flow (which keeps the block height
+   responsive); only the caption is lifted over it, with a scrim for contrast. */
+.about-cover { position: relative; }
+.about-cover > img { width: 100%; height: auto; display: block; border-radius: 4px; }
+.about-cover .wp-block-cover__background { display: none; }
+.about-cover .wp-block-cover__inner-container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 3rem 1rem 0.75rem;
+  border-radius: 0 0 4px 4px;
+  background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.45) 45%, transparent);
+}
+.about-cover .wp-block-cover__inner-container p { margin: 0; text-align: center; }
+</style>
+<div class="about-cover wp-block-cover aligncenter has-custom-content-position is-position-bottom-center has-small-font-size" style="aspect-ratio:unset;"><img decoding="async" width="1160" height="653" loading="lazy" class="wp-block-cover__image-background wp-image-9958" alt="Aerial view of a fire-gutted country house, roof collapsed, still standing in a mown lawn ringed by trees." src="/assets/images/uploads/bolhou.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim" style="background-color:#797a5e"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <p class="has-text-align-center has-white-color has-text-color has-link-color has-large-font-size wp-elements-3076c75415e9448f3471f240019a7199">Experimental Bio-Logging in 93 Minor</p>
 </div></div>
 
@@ -65,105 +84,27 @@ image: "/assets/images/uploads/bolhou.jpg"
 }
 </style>
 <div class="about-photo-grid">
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d032&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d032" class="wp-block-image size-thumbnail is-resized wp-lightbox-container"><img decoding="async" width="310" height="240" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/unitrunker-310x300-1.jpg" alt="" class="wp-image-9157" style="width:194px;height:auto"/><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			aria-label="Enlarge"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="state.imageButtonRight"
-			data-wp-style--top="state.imageButtonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d032&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d032" class="wp-block-image size-thumbnail is-resized wp-lightbox-container"><img decoding="async" width="310" height="240" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/unitrunker-310x300-1.jpg" alt="Unitrunker running on a desktop monitor, its trunked-radio channel tables filled with colour-coded activity." class="wp-image-9157" style="width:194px;height:auto"/></figure>
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d261&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d261" class="wp-block-image size-thumbnail is-resized wp-lightbox-container"><img data-dominant-color="654d3c" data-has-transparency="false" decoding="async" width="320" height="240" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/danburyradiosetup-800x300-1.jpg" alt="" class="wp-image-6101 not-transparent" style="--dominant-color: #654d3c; width:233px;height:auto" /><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			aria-label="Enlarge"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="state.imageButtonRight"
-			data-wp-style--top="state.imageButtonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d261&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d261" class="wp-block-image size-thumbnail is-resized wp-lightbox-container"><img data-dominant-color="654d3c" data-has-transparency="false" decoding="async" width="320" height="240" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/danburyradiosetup-800x300-1.jpg" alt="A ham radio bench: HF transceiver with lit frequency display, power supply, desk microphone and a handheld on its charger." class="wp-image-6101 not-transparent" style="--dominant-color: #654d3c; width:233px;height:auto" /></figure>
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d407&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d407" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="310" height="250" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/2012-10-14_13-31-04_181-310x250.jpg.webp" alt="" class="wp-image-9154" style="width:178px;height:auto" /><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			aria-label="Enlarge"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="state.imageButtonRight"
-			data-wp-style--top="state.imageButtonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d407&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d407" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="310" height="250" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/2012-10-14_13-31-04_181-310x250.jpg.webp" alt="A glass water pipe standing on a desk in front of a laptop and keyboard." class="wp-image-9154" style="width:178px;height:auto" /></figure>
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d5a1&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d5a1" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="340" height="300" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/glengoolie-340x300-1.jpg" alt="" class="wp-image-9156" style="width:151px;height:auto" /><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			aria-label="Enlarge"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="state.imageButtonRight"
-			data-wp-style--top="state.imageButtonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d5a1&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d5a1" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="340" height="300" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/glengoolie-340x300-1.jpg" alt="A hand holding a bottle of Glengoolie Blue single malt Scotch whisky." class="wp-image-9156" style="width:151px;height:auto" /></figure>
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d6f5&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d6f5" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="50" height="50" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/shatter15229211407296247270-50x50.bk_.jpg" alt="" class="wp-image-9155" style="aspect-ratio:1;width:146px;height:auto"/><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			aria-label="Enlarge"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="state.imageButtonRight"
-			data-wp-style--top="state.imageButtonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d6f5&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d6f5" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="50" height="50" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/shatter15229211407296247270-50x50.bk_.jpg" alt="A small handheld device with a glowing blue display, resting beside a radio." class="wp-image-9155" style="aspect-ratio:1;width:146px;height:auto"/></figure>
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d844&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d844" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="150" height="150" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/IMG_20221202_130655-150x150.bk_.jpg" alt="" class="wp-image-9159" style="aspect-ratio:1;width:105px;height:auto" /><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			aria-label="Enlarge"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="state.imageButtonRight"
-			data-wp-style--top="state.imageButtonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a830d844&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a830d844" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="150" height="150" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/IMG_20221202_130655-150x150.bk_.jpg" alt="A hand holding a lightweight over-ear headset by its grey headband." class="wp-image-9159" style="aspect-ratio:1;width:105px;height:auto" /></figure>
 </div>
 
 
@@ -172,7 +113,7 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<p class="has-white-color has-text-color" style="font-size:17px">The site takes its name from Aleister <a data-wpil-monitor-id="94" href="/crowleys-reincarnation/" target="_blank" rel="noopener">Crowley&#8217;s</a> work <em>Equinox of the Gods</em>, which is part of his philosophical corpus. The full quote is &#8220;We place no reliance in virgin or pigeon; our method is science, our aim is religion&#8221;.&nbsp; In this particular quote, Crowley is expressing the perspective of the religious and philosophical system he developed known as Thelema. The couplet is bound up with Crowley&#8217;s periodical <em>The Equinox</em> and his program of Scientific Illuminism.</p>
+<p class="has-white-color has-text-color" style="font-size:17px">The site takes its name from Aleister <a data-wpil-monitor-id="94" href="/crowleys-reincarnation/" rel="noopener">Crowley&#8217;s</a> work <em>Equinox of the Gods</em>, which is part of his philosophical corpus. The full quote is &#8220;We place no reliance in virgin or pigeon; our method is science, our aim is religion&#8221;.&nbsp; In this particular quote, Crowley is expressing the perspective of the religious and philosophical system he developed known as Thelema. The couplet is bound up with Crowley&#8217;s periodical <em>The Equinox</em> and his program of Scientific Illuminism.</p>
 
 
 
@@ -200,7 +141,7 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<p class="has-white-color has-text-color has-link-color wp-elements-a9f85aed26680b58c5de81faf493082d" style="font-size:17px">In the latter part of the quote, Crowley states, &#8220;&#8230;our method is science, our aim is religion&#8221;. This assertion encapsulates how Thelema marries a scientific approach to understanding the world with a profound spiritual and religious focus. Crowley&#8217;s unique synthesis of mysticism, occultism, and esoteric practices with his interests in science, philosophy, and <a href="/therapeutic-mindfulness/" target="_blank" rel="noopener" data-wpil-monitor-id="65">psychology</a> forms the cornerstone of this ideology. Crowley&#8217;s words underline a commitment to individualism, personal exploration, and the pursuit of spiritual knowledge through a harmonious blend of scientific inquiry and religious principles. This approach is a deliberate departure from traditional moral and societal norms. Interestingly, the profound impact of this quote extends beyond its philosophical significance; it inspired the naming of this website, reflecting the author&#8217;s creative interpretation and admiration for the idea. Plus, he imagines it to be a killer name for a jazz fusion band. Maybe ska, tough call.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-a9f85aed26680b58c5de81faf493082d" style="font-size:17px">In the latter part of the quote, Crowley states, &#8220;&#8230;our method is science, our aim is religion&#8221;. This assertion encapsulates how Thelema marries a scientific approach to understanding the world with a profound spiritual and religious focus. Crowley&#8217;s unique synthesis of mysticism, occultism, and esoteric practices with his interests in science, philosophy, and <a href="/therapeutic-mindfulness/" rel="noopener" data-wpil-monitor-id="65">psychology</a> forms the cornerstone of this ideology. Crowley&#8217;s words underline a commitment to individualism, personal exploration, and the pursuit of spiritual knowledge through a harmonious blend of scientific inquiry and religious principles. This approach is a deliberate departure from traditional moral and societal norms. Interestingly, the profound impact of this quote extends beyond its philosophical significance; it inspired the naming of this website, reflecting the author&#8217;s creative interpretation and admiration for the idea. Plus, he imagines it to be a killer name for a jazz fusion band. Maybe ska, tough call.</p>
 
 
 
@@ -220,13 +161,13 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Rubber (2010) - Opening scene" width="1160" height="653" src="https://www.youtube.com/embed/RaZ0LnkMITw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
+<div style="max-width: 720px; margin: 1.5rem auto;">
+{% include youtube.html id="RaZ0LnkMITw" title="Rubber (2010) - Opening scene" %}
+</div>
 
 
 
-<div style="text-align: center;"><a style="color: white; margin: 0 15px; text-decoration: none;" href="https://virginorpigeon.net" target="_blank">Home</a><a style="color: white; margin: 0 15px; text-decoration: none;" href="/an-homage-to-no-reason" target="_blank">About</a><a style="color: white; margin: 0 15px; text-decoration: none;" href="/on-technoshamanism-and-magick/" target="_blank">Blog</a></div>
+<div style="text-align: center;"><a style="color: white; margin: 0 15px; text-decoration: none;" href="/">Home</a><a style="color: white; margin: 0 15px; text-decoration: none;" href="/an-homage-to-no-reason">About</a><a style="color: white; margin: 0 15px; text-decoration: none;" href="/on-technoshamanism-and-magick/">Blog</a></div>
 <style>
 .lwrp.link-whisper-related-posts{
             
