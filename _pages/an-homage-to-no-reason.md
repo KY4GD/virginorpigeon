@@ -24,6 +24,11 @@ image: "/assets/images/uploads/bolhou.jpg"
   background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.45) 45%, transparent);
 }
 .about-cover .wp-block-cover__inner-container p { margin: 0; text-align: center; }
+
+/* The theme only styles blockquotes inside .post-body, so the epigraph on this
+   page fell back to UA margins and crowded the copy beneath it. */
+.about-epigraph { margin: 2rem 0 2.5rem; }
+.about-epigraph cite { display: block; margin-top: 0.5rem; }
 </style>
 <div class="about-cover wp-block-cover aligncenter has-custom-content-position is-position-bottom-center has-small-font-size" style="aspect-ratio:unset;"><img decoding="async" width="1160" height="653" loading="lazy" class="wp-block-cover__image-background wp-image-9958" alt="Aerial view of a fire-gutted country house, roof collapsed, still standing in a mown lawn ringed by trees." src="/assets/images/uploads/bolhou.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim" style="background-color:#797a5e"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <p class="has-text-align-center has-white-color has-text-color has-link-color has-large-font-size wp-elements-3076c75415e9448f3471f240019a7199">Experimental Bio-Logging in 93 Minor</p>
@@ -31,7 +36,7 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<blockquote class="wp-block-quote has-text-align-center has-normal-font-size" id="h-i-have-a-very-short-attention-sp-oh-look-a-squirrel-homer-simpson" style="font-style:normal;font-weight:400"><p><strong>&#8220;I have a very short attention sp-oh look, a squirrel&#8221;</strong></p><cite>&#8212;Homer Simpson</cite></blockquote>
+<blockquote class="about-epigraph wp-block-quote has-text-align-center has-normal-font-size" id="h-i-have-a-very-short-attention-sp-oh-look-a-squirrel-homer-simpson" style="font-style:normal;font-weight:400"><p><strong>&#8220;I have a very short attention sp-oh look, a squirrel&#8221;</strong></p><cite>&#8212;Homer Simpson</cite></blockquote>
 
 
 
@@ -113,7 +118,7 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<p class="has-white-color has-text-color" style="font-size:17px">The site takes its name from Aleister <a data-wpil-monitor-id="94" href="/crowleys-reincarnation/" rel="noopener">Crowley&#8217;s</a> work <em>Equinox of the Gods</em>, which is part of his philosophical corpus. The full quote is &#8220;We place no reliance in virgin or pigeon; our method is science, our aim is religion&#8221;.&nbsp; In this particular quote, Crowley is expressing the perspective of the religious and philosophical system he developed known as Thelema. The couplet is bound up with Crowley&#8217;s periodical <em>The Equinox</em> and his program of Scientific Illuminism.</p>
+<p class="has-white-color has-text-color" style="font-size:17px">The site takes its name from a motto associated with Aleister <a data-wpil-monitor-id="94" href="/crowleys-reincarnation/" rel="noopener">Crowley&#8217;s</a> periodical <em>The Equinox</em> and his program of Scientific Illuminism. The full quote is &#8220;We place no reliance in virgin or pigeon; our method is science, our aim is religion&#8221;.&nbsp; In this particular quote, Crowley is expressing the perspective of the religious and philosophical system he developed known as Thelema.</p>
 
 
 
