@@ -6,7 +6,7 @@ slug: the-development-of-an-exo-toxic-memetype
 categories: [humor, occult-groups, society]
 tags: [dangerous-cults]
 excerpt: "Rarely spotted in the wild these days, the albino Klansman is most often seen in the traditional garb, consisting of white sheets and a dunce hat. The Ku Klux Klan&hellip;"
-image: "/assets/images/uploads/alan-watts.jpg"
+image: "/assets/images/uploads/klansman.webp"
 ---
 
 <p>Rarely spotted in the wild these days, the albino Klansman is most often seen in the traditional garb, consisting of white sheets and a dunce hat. The Ku Klux Klan (KKK) a forerunner in the <strong>exo-toxic memetype</strong> species, was founded in Pulaski, Tennessee, in 1865 by six Confederate veterans: John C. Lester, John B. Kennedy, James R. Crowe, Frank O. McCord, Richard R. Reed, and Calvin E. Jones. Initially, the Klan was formed as a social club for Confederate veterans, but it quickly transformed into a brainless terrorist organization with a deeply rooted ideology of racial hatred and a deep, rich love for beer, burning crosses, and being alone in the woods at night with groups of men. The last part is thankful &#8211; a <a href="/the-russian-threat/" target="_blank" rel="noopener"  data-wpil-monitor-id="25">society</a> propagating the exo-toxic memetype is akin to a chain-smoking lung cancer patient.</p>

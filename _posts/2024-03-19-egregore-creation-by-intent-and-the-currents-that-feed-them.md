@@ -120,6 +120,11 @@ image: "/assets/images/uploads/egregore4-2.jpg"
 <p>The stories in &#8220;Deathbird Stories&#8221; highlight the immense power of collective belief in creating realities. Ellison&#8217;s narratives serve as a reflection on how modern society&#8217;s &#8220;worship&#8221; of secular &#8220;deities&#8221; like technology, consumerism, and ideologies manifests as new forms of egregores that tangibly impact the human psyche and societal structures.</p>
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/038a224f-b7ab-4a55-8f38-fd0c0f44f946.webp" alt="A vast spectral figure rising above a ruined gothic cityscape at dawn" style="width:420px;height:auto" /></figure>
+</div>
+
+
 
 <p>&#8220;The Deathbird,&#8221; the titular story, is a poignant exploration of the themes of creation, belief, and destruction. While not using the term &#8220;egregore&#8221; explicitly, the narrative encapsulates the essence of how collective beliefs and narratives construct realities that define and, ultimately, have the power to destroy worlds. This story showcases how the collective human consciousness creates gods and myths that reflect its deepest fears and hopes.</p>
 

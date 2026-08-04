@@ -33,7 +33,7 @@ image: "/assets/images/uploads/crowleypast3.jpeg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/crowleypast3.jpeg" alt="" class="wp-image-10833" style="width:257px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/crowleypast3.jpeg" alt="A gallery of occult and demonic figures surrounding a top-hatted gentleman" class="wp-image-10833" style="width:257px;height:auto" /></figure>
 </div>
 
 
@@ -49,7 +49,7 @@ image: "/assets/images/uploads/crowleypast3.jpeg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/crowleypast1.jpeg" alt="" class="wp-image-10834" style="width:238px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/crowleypast1.jpeg" alt="Portraits of Aleister Crowley&#8217;s claimed past lives above pentacle medallions" class="wp-image-10834" style="width:238px;height:auto" /></figure>
 </div>
 
 

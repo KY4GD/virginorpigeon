@@ -249,7 +249,7 @@ image: "/assets/images/uploads/parody-religions.jpg"
 
 
 
-<figure class="wp-block-image sq_image"><img decoding="async" loading="lazy" src="/assets/images/uploads/parody-religions.jpg" alt="Parody Religions"/></figure>
+<figure class="wp-block-image sq_image"><img width="500" height="333" decoding="async" loading="lazy" src="/assets/images/uploads/parody-religions.jpg" alt="Parody Religions"/></figure>
 <style>
 .lwrp.link-whisper-related-posts{
             

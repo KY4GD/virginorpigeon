@@ -64,6 +64,11 @@ image: "/assets/images/uploads/robert-anton-wilson.jpg"
 <p>Overall, RAW&#8217;s take on Leary&#8217;s 8 Circuit Model of Consciousness was one of exploration, skepticism, and creative reinterpretation. He saw the model as a useful framework for understanding consciousness, but he also encouraged individuals to question and transcend its limitations. Through his own contributions and the incorporation of his Reality Tunnel concept, Wilson expanded the discussion around the 8 circuit model and offered new avenues for exploration in the realm of human perception and consciousness.</p>
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1043" loading="lazy" src="/assets/images/uploads/RobertAntonWilson-8-circuit-model.webp" alt="Engraved-style portrait of Robert Anton Wilson" style="width:360px;height:auto" /></figure>
+</div>
+
+
 
 <h2 class="wp-block-heading" id="h-chemical-choices-as-a-litmus">Chemical Choices As a Litmus</h2>
 

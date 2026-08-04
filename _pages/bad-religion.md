@@ -3,7 +3,7 @@ layout: page
 title: "Bad Religion"
 description: "Bad Religion — punk rock as philosophy and dissent, in selected video from the long-running Los Angeles band."
 permalink: /music-video/bad-religion/
-image: "/assets/images/uploads/cancel-culture-is-democracy.jpg"
+image: "/assets/images/uploads/bad-religion.jpg"
 ---
 
 {% include youtube.html id="12kcpP-8jfM" title="Bad Religion - American Jesus" %}

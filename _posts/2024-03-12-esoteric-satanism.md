@@ -10,7 +10,7 @@ image: "/assets/images/uploads/file-CFsK91YJPjxfHnCitq873h.webp"
 ---
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1160" height="663" loading="lazy" src="/assets/images/uploads/file-CFsK91YJPjxfHnCitq873h.webp" alt="" class="wp-image-10787" style="width:335px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1160" height="663" loading="lazy" src="/assets/images/uploads/file-CFsK91YJPjxfHnCitq873h.webp" alt="Robed figures before a candlelit altar in a temple of Egyptian and infernal motifs" class="wp-image-10787" style="width:335px;height:auto" /></figure>
 </div>
 
 

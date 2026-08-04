@@ -139,6 +139,11 @@ image: "/assets/images/uploads/music-of-coil-2-scaled.jpg"
 <p>Listeners have reported a range of experiences while engaging with the album, from deep meditation and relaxation to more profound, trance-like states where the sense of temporal flow is dramatically altered. Some have described sensations of floating outside of time, experiencing moments of their past, or feeling a profound connection to the eternal. These experiences underscore Coil&#8217;s success in creating a work that not only explores time as a concept but also manipulates the listener&#8217;s perception of it.</p>
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1429" height="600" loading="lazy" src="/assets/images/uploads/CoilASMR-1429x600.bk_.webp" alt="fMRI scans of a listening brain beside a portrait of Coil&#8217;s Jhonn Balance and Peter Christopherson" style="width:700px;height:auto" /></figure>
+</div>
+
+
 
 <h3 class="wp-block-heading" id="h-the-music-of-coil-impact-on-music-and-art">The Music of Coil: Impact on Music and Art</h3>
 

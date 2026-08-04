@@ -3,7 +3,7 @@ layout: page
 title: "Coil"
 description: "Coil — esoteric industrial and ritual sound from Jhonn Balance and Peter Christopherson, in selected video."
 permalink: /music-video/coil-the-band/
-image: "/assets/images/uploads/scientology-for-profit.jpg"
+image: "/assets/images/uploads/coil-band.webp"
 ---
 
 {% include youtube.html id="efXXPYkBNuM" title="Time Machines (Coil) - Time Machines [Full Album]" %}

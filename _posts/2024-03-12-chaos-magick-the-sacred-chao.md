@@ -114,7 +114,7 @@ image: "/assets/images/uploads/Sacred-Chao-1.jpg"
 
 
 
-<figure class="wp-block-image sq_image"><img decoding="async" loading="lazy" src="/assets/images/uploads/sacred-chao-2.jpg" alt="sacred chao"/></figure>
+<figure class="wp-block-image sq_image"><img width="640" height="640" decoding="async" loading="lazy" src="/assets/images/uploads/sacred-chao-2.jpg" alt="sacred chao"/></figure>
 
 
 

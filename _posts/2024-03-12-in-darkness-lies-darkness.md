@@ -6,7 +6,7 @@ slug: in-darkness-lies-darkness
 categories: [fiction]
 tags: [fiction]
 excerpt: "&#8220;It is not right that everyone should read the pages which follow; only a few will be able to savour this bitter fruit with impunity. Consequently, shrinking soul, turn on your heels and go back"
-image: "/assets/images/uploads/psychological-depth-in-neo-noir.jpg"
+image: "/assets/images/uploads/In-Darkness-Lies-Darkness.jpg"
 ---
 
 <h3 class="wp-block-heading has-text-align-left" id="h-it-is-not-right-that-everyone-should-read-the-pages-which-follow-only-a-few-will-be-able-to-savour-this-bitter-fruit-with-impunity-consequently-shrinking-soul-turn-on-your-heels-and-go-back-before-penetrating-further-into-such-uncharted-perilous-wastelands">&#8220;It is not right that everyone should read the pages which follow; only a few will be able to savour this bitter fruit with impunity. Consequently, shrinking soul, turn on your heels and go back before penetrating further into such uncharted, perilous wastelands.&#8221;</h3>

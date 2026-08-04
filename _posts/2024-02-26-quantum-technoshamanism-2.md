@@ -54,7 +54,7 @@ image: "/assets/images/uploads/yinyang.jpg"
 
 
 <div class="wp-block-image">
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a7cb6449&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a7cb6449" class="aligncenter size-full wp-lightbox-container"><img decoding="async" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/Arrow-of-Time.jpg" alt="Arrow of Time" class="wp-image-2912"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a7cb6449&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a7cb6449" class="aligncenter size-full wp-lightbox-container"><img width="1024" height="1024" decoding="async" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/Arrow-of-Time.jpg" alt="Arrow of Time" class="wp-image-2912"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -119,7 +119,7 @@ image: "/assets/images/uploads/yinyang.jpg"
 
 
 <div class="wp-block-image">
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a7cb66a7&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a7cb66a7" class="aligncenter size-full wp-lightbox-container"><img decoding="async" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="https://i0.wp.com/virginorpigeon.org/wp-content/uploads/2024/02/abbeyofthelema.jpg?fit=1024%2C1024&ssl=1" alt="The Abbey of Thelema Cefalù, Sicily in 1920" class="wp-image-2911"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a7cb66a7&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a7cb66a7" class="aligncenter size-full wp-lightbox-container"><img width="1024" height="1024" decoding="async" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/abbeyofthelema.webp" alt="Robed figures in a candlelit garden ritual circle before an ivy-covered chapel" class="wp-image-2911"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -176,7 +176,7 @@ image: "/assets/images/uploads/yinyang.jpg"
 
 
 <div class="wp-block-image">
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a7cb68f8&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a7cb68f8" class="aligncenter size-full wp-lightbox-container"><img decoding="async" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="https://i0.wp.com/virginorpigeon.org/wp-content/uploads/2024/02/nielsbohr.jpg?fit=1024%2C1024&ssl=1" alt="Cyberdelic Niels Bohr" class="wp-image-2916"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a7cb68f8&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a7cb68f8" class="aligncenter size-full wp-lightbox-container"><img width="1024" height="1024" decoding="async" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/nielsbohr.webp" alt="A neon-lit portrait of Niels Bohr holding a glowing atomic model" class="wp-image-2916"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -325,7 +325,7 @@ image: "/assets/images/uploads/yinyang.jpg"
 
 
 <div class="wp-block-image">
-<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a7cb6ccf&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a7cb6ccf" class="aligncenter size-full wp-lightbox-container"><img decoding="async" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="https://i0.wp.com/virginorpigeon.org/wp-content/uploads/2024/02/VR-Executives-1.jpg?fit=1024%2C1024&ssl=1" alt="VR Boardroom" class="wp-image-2926"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69ea9a7cb6ccf&quot;}" data-wp-interactive="core/image" data-wp-key="69ea9a7cb6ccf" class="aligncenter size-full wp-lightbox-container"><img width="1024" height="1024" decoding="async" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" loading="lazy" src="/assets/images/uploads/VR-Executives-1.webp" alt="Executives wearing VR headsets around a boardroom table above a city skyline" class="wp-image-2926"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -436,7 +436,7 @@ image: "/assets/images/uploads/yinyang.jpg"
 
 
 
-<h1 class="wp-block-heading has-text-align-center"><strong>More Related Articles</strong></h1>
+<h2 class="wp-block-heading has-text-align-center"><strong>More Related Articles</strong></h2>
 
 
 

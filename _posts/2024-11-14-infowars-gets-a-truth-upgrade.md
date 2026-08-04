@@ -9,11 +9,11 @@ excerpt: "The Day Satire Won: The Onion&#8217;s Most Real Headline Yet In a plot
 image: "/assets/images/uploads/4f3e03fa-3cb2-4f56-9fbb-ec57cccbceb4-1160x663.webp"
 ---
 
-<h1 class="wp-block-heading" id="h-the-day-satire-won-the-onion-s-most-real-headline-yet">The Day Satire Won: The Onion&#8217;s Most Real Headline Yet</h1>
+<h2 class="wp-block-heading" id="h-the-day-satire-won-the-onion-s-most-real-headline-yet">The Day Satire Won: The Onion&#8217;s Most Real Headline Yet</h2>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img data-dominant-color="89756b" data-has-transparency="false" decoding="async" width="1160" height="663" loading="lazy" src="/assets/images/uploads/4f3e03fa-3cb2-4f56-9fbb-ec57cccbceb4-1160x663.webp" alt="" class="wp-image-8321 not-transparent" style="--dominant-color: #89756b; width:602px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img data-dominant-color="89756b" data-has-transparency="false" decoding="async" width="1160" height="663" loading="lazy" src="/assets/images/uploads/4f3e03fa-3cb2-4f56-9fbb-ec57cccbceb4-1160x663.webp" alt="A press conference ringed by sensational conspiracy newspaper headlines" class="wp-image-8321 not-transparent" style="--dominant-color: #89756b; width:602px;height:auto" /></figure>
 </div>
 
 
@@ -45,7 +45,7 @@ image: "/assets/images/uploads/4f3e03fa-3cb2-4f56-9fbb-ec57cccbceb4-1160x663.web
 
 
 
-<h1 class="wp-block-heading" id="h-breaking-local-mall-kiosk-now-only-remaining-platform-willing-to-host-alex-jones">Breaking: Local Mall Kiosk Now Only Remaining Platform Willing to Host Alex Jones</h1>
+<h2 class="wp-block-heading" id="h-breaking-local-mall-kiosk-now-only-remaining-platform-willing-to-host-alex-jones">Breaking: Local Mall Kiosk Now Only Remaining Platform Willing to Host Alex Jones</h2>
 
 
 

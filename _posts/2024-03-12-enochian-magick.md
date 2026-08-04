@@ -10,7 +10,7 @@ image: "/assets/images/uploads/enockian2.jpeg"
 ---
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/enockian2.jpeg" alt="" class="wp-image-10826" style="width:310px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/enockian2.jpeg" alt="A horned, skull-faced entity holding a camera within a glowing pentagram circle" class="wp-image-10826" style="width:310px;height:auto" /></figure>
 </div>
 
 
@@ -30,7 +30,7 @@ image: "/assets/images/uploads/enockian2.jpeg"
 
 
 
-<h1 class="wp-block-heading" id="h-application-and-practice-of-enochian-magic-and-angelic-communication"><strong>Application and Practice of Enochian Magic</strong> and Angelic Communication: </h1>
+<h2 class="wp-block-heading" id="h-application-and-practice-of-enochian-magic-and-angelic-communication"><strong>Application and Practice of Enochian Magic</strong> and Angelic Communication: </h2>
 
 
 
@@ -46,7 +46,7 @@ image: "/assets/images/uploads/enockian2.jpeg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/enockian4.jpeg" alt="" class="wp-image-10824" style="width:360px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/enockian4.jpeg" alt="Hands holding a camera ringed by golden Enochian sigils and winged figures" class="wp-image-10824" style="width:360px;height:auto" /></figure>
 </div>
 
 
@@ -90,7 +90,7 @@ image: "/assets/images/uploads/enockian2.jpeg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/enochian3-1.jpeg" alt="" class="wp-image-10830" style="width:257px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/enochian3-1.jpeg" alt="A winged lion-headed creature above a seascape of ships and mountains" class="wp-image-10830" style="width:257px;height:auto" /></figure>
 </div>
 
 
@@ -115,6 +115,11 @@ image: "/assets/images/uploads/enockian2.jpeg"
 
 
 <p>Moreover, Enochian Magick&#8217;s emphasis on angelic communication and the exploration of higher realms. This resonates with broader themes found in various mystical and spiritual traditions.  The concept of connecting with higher intelligences to seek insight is seen in different cultural and religious contexts throughout history.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/enochian1.webp" alt="Hands holding a camera whose screen overlays an Enochian sigil on the city beyond" style="width:330px;height:auto" /></figure>
+</div>
 
 
 

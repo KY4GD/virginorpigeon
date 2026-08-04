@@ -9,7 +9,7 @@ image: "/assets/images/uploads/8ea26197-5de1-40e4-b45a-e137e46eacf1.webp"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img data-dominant-color="695f6c" data-has-transparency="false" style="--dominant-color: #695f6c;" decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/8ea26197-5de1-40e4-b45a-e137e46eacf1.webp" alt="" class="wp-image-8978 not-transparent" /></figure>
+<figure class="aligncenter size-full"><img data-dominant-color="695f6c" data-has-transparency="false" style="--dominant-color: #695f6c;" decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/8ea26197-5de1-40e4-b45a-e137e46eacf1.webp" alt="A meditating figure amid neon mandalas and sound waves" class="wp-image-8978 not-transparent" /></figure>
 </div>
 
 

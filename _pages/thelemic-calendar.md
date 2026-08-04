@@ -2,7 +2,7 @@
 layout: page
 title: "Thelemic Calendar"
 permalink: /thelemic-calendar/
-image: "/assets/images/uploads/images28129.jpeg"
+image: "/assets/images/uploads/magickreak1.jpeg"
 ---
 
 <div class="tc-panel">

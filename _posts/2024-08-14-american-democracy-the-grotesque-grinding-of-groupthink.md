@@ -88,7 +88,7 @@ image: "/assets/images/uploads/grinding-of-groupthink.webp"
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="870" loading="lazy" src="/assets/images/uploads/groupthink-1-1024x870-1.jpeg" alt="" class="wp-image-10573" style="width:524px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="870" loading="lazy" src="/assets/images/uploads/groupthink-1-1024x870-1.jpeg" alt="A stern figure writing while rows of uniformed people stare ahead, beams across their eyes" class="wp-image-10573" style="width:524px;height:auto" /></figure>
 </div>
 
 

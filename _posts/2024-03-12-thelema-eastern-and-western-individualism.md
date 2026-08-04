@@ -58,6 +58,11 @@ image: "/assets/images/uploads/Religion-Versus-Philosophy.jpg"
 
 
 <p>In summary, Thelema presents an intriguing blend of Eastern and Western influences. It shares similarities with Eastern philosophies in its emphasis on self-discovery and the pursuit of one&#8217;s unique purpose. However, it also challenges Western enforcement of morality and convention by promoting individual sovereignty and freedom. Thelema may fit between the paradigm of Eastern philosophy and Western enforcement of morality. This judgement depends upon the interpretation and emphasis of its practitioners.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="768" loading="lazy" src="/assets/images/uploads/image.webp" alt="A candlelit temple chamber centred on a glowing Tree of Life sigil" style="width:460px;height:auto" /></figure>
+</div>
 <style>
 .lwrp.link-whisper-related-posts{
             

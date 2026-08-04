@@ -10,7 +10,7 @@ image: "/assets/images/uploads/lsd4.jpeg"
 ---
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd4.jpeg" alt="" class="wp-image-10840" style="width:304px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd4.jpeg" alt="Psychedelic collage of a figure at a desk amid cosmic waves, planets and a vintage car" class="wp-image-10840" style="width:304px;height:auto" /></figure>
 </div>
 
 
@@ -34,7 +34,7 @@ image: "/assets/images/uploads/lsd4.jpeg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd3.jpeg" alt="" class="wp-image-10841" style="width:306px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd3.jpeg" alt="Psychedelic landscape of dancing figures under a crescent moon, clouds and a helicopter" class="wp-image-10841" style="width:306px;height:auto" /></figure>
 </div>
 
 
@@ -90,7 +90,7 @@ image: "/assets/images/uploads/lsd4.jpeg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd2.jpeg" alt="" class="wp-image-10842" style="width:326px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd2.jpeg" alt="A bedroom turned psychedelic, figures sprawled on the floor beneath a giant painted eye" class="wp-image-10842" style="width:326px;height:auto" /></figure>
 </div>
 
 
@@ -102,7 +102,7 @@ image: "/assets/images/uploads/lsd4.jpeg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd1.jpeg" alt="" class="wp-image-10844" style="width:301px;height:auto" /></figure>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1024" height="1024" loading="lazy" src="/assets/images/uploads/lsd1.jpeg" alt="A figure playing guitar inside a blazing sun, ringed by swirling cosmic faces" class="wp-image-10844" style="width:301px;height:auto" /></figure>
 </div>
 
 
@@ -130,7 +130,7 @@ image: "/assets/images/uploads/lsd4.jpeg"
 
 
 <div class="wp-block-image sq_image">
-<figure class="aligncenter"><img decoding="async" loading="lazy" src="/assets/images/uploads/microdosing-as-a-technoshamanistic-ritual.jpg" alt="microdosing as a technoshamanistic ritual"/></figure>
+<figure class="aligncenter"><img width="640" height="427" decoding="async" loading="lazy" src="/assets/images/uploads/microdosing-as-a-technoshamanistic-ritual.jpg" alt="microdosing as a technoshamanistic ritual"/></figure>
 </div>
 
 
