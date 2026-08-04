@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+description: "An homage to no reason — a personal notebook on technoshamanism, Thelema, information warfare, technology, psychology, music, politics, and assorted obsessions."
 permalink: /an-homage-to-no-reason/
 image: "/assets/images/uploads/bolhou.jpg"
 ---
@@ -11,11 +12,11 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<h1 class="wp-block-heading has-text-align-center has-normal-font-size" id="h-i-have-a-very-short-attention-sp-oh-look-a-squirrel-homer-simpson" style="font-style:normal;font-weight:400"><strong>&#8220;I have a very short attention sp-oh look, a squirrel&#8221; &#8212;Homer Simpson</strong></h1>
+<blockquote class="wp-block-quote has-text-align-center has-normal-font-size" id="h-i-have-a-very-short-attention-sp-oh-look-a-squirrel-homer-simpson" style="font-style:normal;font-weight:400"><p><strong>&#8220;I have a very short attention sp-oh look, a squirrel&#8221;</strong></p><cite>&#8212;Homer Simpson</cite></blockquote>
 
 
 
-<p class="has-white-color has-text-color" style="font-size:17px">The purpose of this website is simple &#8211; it serves no real purpose. It exists as <strong>an homage to no reason</strong>. Its essence is akin to a Fisher Price level accumulation of irrelevant observations about niche subjects of interest to few. Originally conceived as an online repository for shared information among a small circle of friends, it mutated. As our communication needs evolved, we migrated to a different platform, transforming this site into a wasteland. I broke out the proverbial spray paint, prettified some of my thoughts with AI writing tools, and here we are. We are killing time, my friends; wrapped in an illusion of delusion. &#8220;In the black cunt of time, Maldoror waits&#8221;. We have no purpose. “We&#8217;ve all been raised on television to believe that one day we&#8217;d all be millionaires, and movie gods, and rock stars. But we won&#8217;t. And we&#8217;re slowly learning that fact. <em>And we&#8217;re very, very pissed off</em>.” &#8212;Tyler Durden</p>
+<p class="has-white-color has-text-color" style="font-size:17px">The purpose of this website is simple &#8211; it serves no real purpose. It exists as <strong>an homage to no reason</strong>. Its essence is akin to a Fisher-Price level accumulation of irrelevant observations about niche subjects of interest to few. Originally conceived as an online repository for shared information among a small circle of friends, it mutated. As our communication needs evolved, we migrated to a different platform, transforming this site into a wasteland. I broke out the proverbial spray paint, prettified some of my thoughts with AI writing tools, and here we are. We are killing time, my friends; wrapped in an illusion of delusion. &#8220;In the black cunt of time, Maldoror waits&#8221;. We have no purpose. “We&#8217;ve all been raised on television to believe that one day we&#8217;d all be millionaires, and movie gods, and rock stars. But we won&#8217;t. And we&#8217;re slowly learning that fact. <em>And we&#8217;re very, very pissed off</em>.” &#8212;Tyler Durden</p>
 
 
 
@@ -23,7 +24,7 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<p class="has-white-color has-text-color has-link-color wp-elements-1e6a3d26d10d15ecf92cab0f1aa95ee0" style="font-size:17px">I wrote everything here for my own amusement and edification, and you should take it with a grain of salt. You&#8217;ll find plenty of well researched information in libraries, or bookstores. I highly encourage anyone interested to delve into their own research, without trusting me. While my knowledge about these subjects may be sufficient for dinner table conversations, it is nothing more. Do not mistake my ADHD for verified information. The quest for knowledge is ongoing. Own it yourself. Read. But that is not the purpose of this site. This is an homage to no reason.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-1e6a3d26d10d15ecf92cab0f1aa95ee0" style="font-size:17px">I wrote everything here for my own amusement and edification, and you should take it with a grain of salt. You&#8217;ll find plenty of well-researched information in libraries or bookstores. I highly encourage anyone interested to delve into their own research, without trusting me. I have read enough about these subjects to be worth arguing with, and nowhere near enough to be the last word on any of them. Check anything here that you intend to rely on, and do not mistake my ADHD for verified information. The quest for knowledge is ongoing. Own it yourself. Read. But that is not the purpose of this site. This is an homage to no reason.</p>
 
 
 
@@ -171,7 +172,11 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<p class="has-white-color has-text-color" style="font-size:17px">The site takes its name from Aleister <a data-wpil-monitor-id="94" href="/crowleys-reincarnation/" target="_blank" rel="noopener">Crowley&#8217;s</a> work &#8220;Equinox of the Gods,&#8221; which is part of his philosophical corpus. The full quote is &#8220;We place no reliance in virgin or pigeon; our method is science, our aim is religion&#8221;.&nbsp; In this particular quote, Crowley is expressing the perspective of the religious and philosophical system he developed known as Thelema.</p>
+<p class="has-white-color has-text-color" style="font-size:17px">The site takes its name from Aleister <a data-wpil-monitor-id="94" href="/crowleys-reincarnation/" target="_blank" rel="noopener">Crowley&#8217;s</a> work <em>Equinox of the Gods</em>, which is part of his philosophical corpus. The full quote is &#8220;We place no reliance in virgin or pigeon; our method is science, our aim is religion&#8221;.&nbsp; In this particular quote, Crowley is expressing the perspective of the religious and philosophical system he developed known as Thelema. The couplet is bound up with Crowley&#8217;s periodical <em>The Equinox</em> and his program of Scientific Illuminism.</p>
+
+
+
+<p class="has-white-color has-text-color" style="font-size:17px">The rhyme appears to mock reliance upon traditional Christian signs&#8212;the Virgin and the descending dove&#8212;while contrasting received belief with observation and experiment. Crowley being Crowley, the comic rhyme is probably part of the point.</p>
 
 
 
@@ -179,7 +184,7 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<p class="has-white-color has-text-color" style="font-size:17px">&#8220;We place no reliance on virgin or pigeon&#8221; is Crowley&#8217;s way of emphasizing science above superstition. The term &#8220;virgin&#8221; likely refers to the idea of purity or innocence associated with religious and cultural norms, He is suggesting that Thelema does not place importance on such concepts. Crowley&#8217;s teachings in Thelema are often associated with a rejection of conventional moral and social restrictions. </p>
+<p class="has-white-color has-text-color" style="font-size:17px">&#8220;We place no reliance on virgin or pigeon&#8221; is Crowley&#8217;s way of emphasizing science above superstition. The term &#8220;virgin&#8221; likely refers to the idea of purity or innocence associated with religious and cultural norms. He is suggesting that Thelema does not place importance on such concepts. Crowley&#8217;s teachings in Thelema are often associated with a rejection of conventional moral and social restrictions. </p>
 
 
 
@@ -191,11 +196,15 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<h2 class="wp-block-heading" id="h-the-purpose-of-this-site">The Purpose of this Site</h2>
+<h2 class="wp-block-heading" id="h-the-purpose-of-this-site">What You&#8217;ll Find Here</h2>
 
 
 
-<p class="has-white-color has-text-color has-link-color wp-elements-a9f85aed26680b58c5de81faf493082d" style="font-size:17px">In the latter part of the quote, Crowley states, &#8220;&#8230;our method is science, our aim is religion&#8221;. This assertion encapsulates how Thelema marries a scientific approach to understanding the world with a profound spiritual and religious focus. Crowley&#8217;s unique synthesis of mysticism, occultism, and esoteric practices with his interests in science, philosophy, and <a href="/therapeutic-mindfulness/" target="_blank" rel="noopener" data-wpil-monitor-id="65">psychology</a> form the cornerstone of this ideology. Crowley&#8217;s words underline a commitment to individualism, personal exploration, and the pursuit of spiritual knowledge through a harmonious blend of scientific inquiry and religious principles. This approach is a deliberate departure from traditional moral and societal norms. Interestingly, the profound impact of this quote extends beyond its philosophical significance; it inspired the naming of this website, reflecting the webmaster&#8217;s creative interpretation and admiration for the idea. Plus, he imagines it to be a killer name for a jazz fusion band. Maybe ska, tough call.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-a9f85aed26680b58c5de81faf493082d" style="font-size:17px">In the latter part of the quote, Crowley states, &#8220;&#8230;our method is science, our aim is religion&#8221;. This assertion encapsulates how Thelema marries a scientific approach to understanding the world with a profound spiritual and religious focus. Crowley&#8217;s unique synthesis of mysticism, occultism, and esoteric practices with his interests in science, philosophy, and <a href="/therapeutic-mindfulness/" target="_blank" rel="noopener" data-wpil-monitor-id="65">psychology</a> forms the cornerstone of this ideology. Crowley&#8217;s words underline a commitment to individualism, personal exploration, and the pursuit of spiritual knowledge through a harmonious blend of scientific inquiry and religious principles. This approach is a deliberate departure from traditional moral and societal norms. Interestingly, the profound impact of this quote extends beyond its philosophical significance; it inspired the naming of this website, reflecting the author&#8217;s creative interpretation and admiration for the idea. Plus, he imagines it to be a killer name for a jazz fusion band. Maybe ska, tough call.</p>
+
+
+
+<p class="has-white-color has-text-color" style="font-size:17px">What accumulates here is closer to a notebook: technoshamanism, Thelema, information warfare, technology, psychology, music, politics, and assorted obsessions that refuse to leave me alone. None of it was filed with a purpose in mind, which is not quite the same thing as saying the drawer is empty.</p>
 
 
 
@@ -203,11 +212,11 @@ image: "/assets/images/uploads/bolhou.jpg"
 
 
 
-<p class="has-white-color has-text-color has-link-color wp-elements-ed9e646a90ab5ab622b989fd6a3267c4" style="font-size:17px">In closing, we come full circle to the purpose of this site &#8211; there isn&#8217;t one. Like life itself, it stands as an homage to no reason. It cannot be better explained than by Stephen Spinella, in Quentin Dupieux&#8217;s classic film Rubber.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-ed9e646a90ab5ab622b989fd6a3267c4" style="font-size:17px">In closing, we come full circle to the purpose of this site &#8211; there isn&#8217;t one. Like life itself, it stands as an homage to no reason. It cannot be better explained than by Stephen Spinella, in Quentin Dupieux&#8217;s classic film <em>Rubber</em>.</p>
 
 
 
-<p class="has-white-color has-text-color has-link-color wp-elements-67a0871e0290fd8fdb42b09d0983578b" style="font-size:17px">BTW if anyone with a &#8220;real&#8221; site happens, by some slim chance, to see anything here you want, like the little Thelemic calendar,  just let me know, and I will be both happily surprised, and quick to send it.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-67a0871e0290fd8fdb42b09d0983578b" style="font-size:17px">BTW if anyone with a &#8220;real&#8221; site happens, by some slim chance, to see anything here you want, like the little Thelemic calendar, just let me know. I will be both happily surprised and quick to send it.</p>
 
 
 
