@@ -4,6 +4,11 @@ title: "Under Construction"
 description: "The Virgin or Pigeon gallery — a visual collection of esoteric and technoshamanic art. Currently under construction."
 permalink: /gallery/
 image: "/assets/images/uploads/aor.jpg"
+# Hidden while under construction: kept out of the nav (see show_gallery_nav in
+# _config.yml), the sitemap, and the Pagefind search index. The URL still works
+# because several posts link to it.
+hidden: true
+sitemap: false
 ---
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-ad2f72ca wp-block-group-is-layout-flex"></div>

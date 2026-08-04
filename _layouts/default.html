@@ -20,7 +20,11 @@
   {% endcomment %}
   {% seo %}
 </head>
-<body class="{% if page.url == '/' %}is-home{% endif %}">
+{% comment %}
+  data-pagefind-ignore on <body> keeps a page out of the site search index
+  entirely. Set `hidden: true` in a page's front matter to hide it.
+{% endcomment %}
+<body class="{% if page.url == '/' %}is-home{% endif %}"{% if page.hidden %} data-pagefind-ignore{% endif %}>
 
   <div class="site-overlay" id="site-overlay"></div>
 
