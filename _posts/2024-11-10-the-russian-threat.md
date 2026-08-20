@@ -6,10 +6,16 @@ slug: the-russian-threat
 categories: [fifth-generation-warfare, new, society]
 tags: [russian-threat]
 excerpt: "&#8220;The whole art of war consists of getting at what is on the other side of the hill.&#8221; &#8212; The Duke of Wellington Imagine a chess player who, facing defeat,&hellip;"
-image: "/assets/images/uploads/russian-threat-3.jpg"
+image: "/assets/images/uploads/russian-threat-title.webp"
 ---
 
 <p><em>&#8220;The whole art of war consists of getting at what is on the other side of the hill.&#8221;</em> &#8212; The Duke of Wellington</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="eager" fetchpriority="high" src="/assets/images/uploads/russian-threat-title.webp" alt="Conceptual illustration of Russian strategic sacrifice: a chess king amid war, devastation, and nuclear deterrence" style="width:720px;max-width:100%;height:auto" /></figure>
+</div>
 
 
 
@@ -29,7 +35,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-napoleon-moscow.png" alt="Illustration of Napoleon's army facing burning Moscow in 1812" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-napoleon-moscow.webp" alt="Illustration of Napoleon's army facing burning Moscow in 1812" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -37,7 +43,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-stalingrad.png" alt="Illustration of the ruined city of Stalingrad beneath a winter sky" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-stalingrad.webp" alt="Illustration of the ruined city of Stalingrad beneath a winter sky" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -75,7 +81,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-poseidon.png" alt="Illustration of an underwater nuclear drone, representing Poseidon" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-poseidon.webp" alt="Illustration of an underwater nuclear drone, representing Poseidon" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -85,7 +91,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-burevestnik.png" alt="Illustration of the Burevestnik cruise missile flying over Arctic terrain" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-burevestnik.webp" alt="Illustration of the Burevestnik cruise missile flying over Arctic terrain" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -95,7 +101,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-perimeter.png" alt="Illustration of an automated nuclear command center and missile launch controls, representing the Perimeter system" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-perimeter.webp" alt="Illustration of an automated nuclear command center and missile launch controls, representing the Perimeter system" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -113,7 +119,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-fallout-city.png" alt="Conceptual illustration of a city under radioactive fallout" style="width:540px;height:auto" /><figcaption class="wp-element-caption">Conceptual illustration; not a depiction of an actual event.</figcaption></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-fallout-city.webp" alt="Conceptual illustration of a city under radioactive fallout" style="width:540px;height:auto" /><figcaption class="wp-element-caption">Conceptual illustration; not a depiction of an actual event.</figcaption></figure>
 </div>
 
 
@@ -135,7 +141,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-yamantau.png" alt="Illustration of an underground mountain bunker, representing the Yamantau complex" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-yamantau.webp" alt="Illustration of an underground mountain bunker, representing the Yamantau complex" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -157,7 +163,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-chess.png" alt="Illustration of a devastated chessboard and a solitary king, representing sacrificial strategy" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-chess.webp" alt="Illustration of a devastated chessboard and a solitary king, representing sacrificial strategy" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -175,7 +181,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-rusting-armor.png" alt="Illustration of rusting armored vehicles beneath a distant missile" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-rusting-armor.webp" alt="Illustration of rusting armored vehicles beneath a distant missile" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -197,7 +203,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-cruise-missile.png" alt="Illustration of a cruise missile flying through an Arctic night" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-cruise-missile.webp" alt="Illustration of a cruise missile flying through an Arctic night" style="width:540px;height:auto" /></figure>
 </div>
 
 
@@ -207,7 +213,7 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-submarines.png" alt="Illustration of submarines beneath frozen water, representing underwater nuclear deterrence" style="width:540px;height:auto" /></figure>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-submarines.webp" alt="Illustration of submarines beneath frozen water, representing underwater nuclear deterrence" style="width:540px;height:auto" /></figure>
 </div>
 
 
