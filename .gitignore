@@ -2,3 +2,4 @@ _site
 vendor/bundle
 .bundle
 CF_API.txt
+HUMAN_ACTION_REQUIRED.md

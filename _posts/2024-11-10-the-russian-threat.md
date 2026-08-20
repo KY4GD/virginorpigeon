@@ -25,7 +25,20 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 
-<p>To appreciate why Russia&#8217;s military threat endures despite its manifest weaknesses, one must understand how deeply <em>otchayannyi</em> is woven into the fabric of Russian national consciousness. This is a civilization that, when confronted by Napoleon&#8217;s Grande Armee in 1812, burned its own capital to the ground rather than allow it to serve the enemy. During the Second World War, Soviet forces at Stalingrad held their positions under conditions that their own commanders knew would produce over one million casualties &#8212; and they did not merely absorb those losses. They planned for them, incorporated them into operational strategy, and ultimately prevailed through a willingness to sacrifice on a scale that staggered the imagination of their adversaries (Glantz and House, 2009).</p>
+<p>To appreciate why Russia&#8217;s military threat endures despite its manifest weaknesses, one must understand how deeply <em>otchayannyi</em> is woven into the fabric of Russian national consciousness. This is a civilization that, when confronted by Napoleon&#8217;s Grande Armee in 1812, burned its own capital to the ground rather than allow it to serve the enemy.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-napoleon-moscow.png" alt="Illustration of Napoleon's army facing burning Moscow in 1812" style="width:540px;height:auto" /></figure>
+</div>
+
+
+<p>During the Second World War, Soviet forces at Stalingrad held their positions under conditions that their own commanders knew would produce over one million casualties &#8212; and they did not merely absorb those losses. They planned for them, incorporated them into operational strategy, and ultimately prevailed through a willingness to sacrifice on a scale that staggered the imagination of their adversaries (Glantz and House, 2009).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-stalingrad.png" alt="Illustration of the ruined city of Stalingrad beneath a winter sky" style="width:540px;height:auto" /></figure>
+</div>
 
 
 
@@ -61,11 +74,29 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-poseidon.png" alt="Illustration of an underwater nuclear drone, representing Poseidon" style="width:540px;height:auto" /></figure>
+</div>
+
+
+
 <p><strong>The Burevestnik Nuclear-Powered Cruise Missile.</strong> Designated SSC-X-9 Skyfall by NATO, Burevestnik is a nuclear-powered, nuclear-armed cruise missile theoretically capable of remaining airborne for extended periods and following unpredictable flight paths to evade missile defense systems. While its testing history has been troubled &#8212; multiple failed tests have been documented &#8212; the program&#8217;s persistence reflects a strategic commitment to ensuring retaliatory capability even in the aftermath of a successful first strike against Russian territory (Arms Control Association, 2021; Panda, 2024).</p>
 
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-burevestnik.png" alt="Illustration of the Burevestnik cruise missile flying over Arctic terrain" style="width:540px;height:auto" /></figure>
+</div>
+
+
+
 <p><strong>The Perimeter System (&#8220;Dead Hand&#8221;).</strong> Perhaps the most emblematic expression of Russia&#8217;s sacrificial philosophy is the Perimeter automated nuclear command-and-control system, designed during the Soviet era to guarantee retaliatory launch of intercontinental ballistic missiles even if the entire Russian political and military leadership is destroyed. Perimeter monitors seismic, radiation, and communications data to detect a nuclear attack, and under certain conditions can authorize launch without direct human command. Its existence has been confirmed by multiple former Soviet and Russian military officials and is acknowledged in Western defense literature (Blair, 1993; Yarynich, 2003; Military.com, 2023).</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-perimeter.png" alt="Illustration of an automated nuclear command center and missile launch controls, representing the Perimeter system" style="width:540px;height:auto" /></figure>
+</div>
 
 
 
@@ -78,6 +109,12 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <p>The concept of a cobalt bomb was first articulated by physicist Leo Szilard in 1950 &#8212; not as a weapons proposal, but as a thought experiment to illustrate the logical terminus of the nuclear arms race. A cobalt-salted weapon surrounds a standard fission or thermonuclear device with a casing of cobalt-59, which transmutes upon neutron bombardment into cobalt-60, a highly radioactive isotope with a half-life of approximately 5.27 years. Dispersed as fallout, cobalt-60 could render vast areas of the planet uninhabitable for decades (Szilard, 1950; Rhodes, 1995).</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-fallout-city.png" alt="Conceptual illustration of a city under radioactive fallout" style="width:540px;height:auto" /><figcaption class="wp-element-caption">Conceptual illustration; not a depiction of an actual event.</figcaption></figure>
+</div>
 
 
 
@@ -97,6 +134,12 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-yamantau.png" alt="Illustration of an underground mountain bunker, representing the Yamantau complex" style="width:540px;height:auto" /></figure>
+</div>
+
+
+
 <p>The New York Times reported in 1996 that Russian officials had described the complex variously as a mining site, a repository for national treasures, a food storage facility, and a bunker for the national leadership in the event of nuclear war &#8212; a pattern of evasive and contradictory responses that only deepened Western suspicion (Gordon, 1996). U.S. intelligence estimates from the same period placed the facility&#8217;s capacity at up to 60,000 people with supplies sufficient for years of sustained habitation (Dagens NWI, 2025; Tampa Bay Times, 1996). General Eugene Habiger, then Commander of U.S. Strategic Command, described the complex as encompassing &#8220;millions of square feet&#8221; of underground space, adding bluntly: &#8220;We don&#8217;t have a clue as to what they&#8217;re doing there&#8221; (NTI, 2021).</p>
 
 
@@ -113,6 +156,12 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-chess.png" alt="Illustration of a devastated chessboard and a solitary king, representing sacrificial strategy" style="width:540px;height:auto" /></figure>
+</div>
+
+
+
 <p>Russia&#8217;s Poseidon drone has been the subject of persistent, unverified rumors regarding a cobalt-salted warhead, stemming in part from a 2015 leak on Russian state television. The Pentagon has acknowledged the existence of the Poseidon platform while neither confirming nor dismissing the salting rumors, and most Western analysts have treated the claims as psychological operations &#8212; disinformation designed to amplify the deterrent effect of the weapon (Just Security, 2026). This assessment may be correct. But dismissing the possibility entirely requires ignoring a critical piece of the strategic puzzle: the existence of infrastructure designed to ensure elite survivability in the aftermath of precisely the kind of catastrophe a cobalt weapon would produce.</p>
 
 
@@ -122,6 +171,12 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 <p>This combination of sacrificial philosophy and apocalyptic capability translates into real political power in ways that confound Western strategic thinking. We observe Russian tanks breaking down in Ukrainian fields, soldiers poorly equipped and poorly led, a navy rusting at anchor &#8212; and we wonder how this nation maintains its seat at the global power table. The answer lies in understanding that conventional military strength is only one dimension of national power, and perhaps not the most decisive one.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-rusting-armor.png" alt="Illustration of rusting armored vehicles beneath a distant missile" style="width:540px;height:auto" /></figure>
+</div>
 
 
 
@@ -141,7 +196,19 @@ image: "/assets/images/uploads/russian-threat-3.jpg"
 
 
 
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-cruise-missile.png" alt="Illustration of a cruise missile flying through an Arctic night" style="width:540px;height:auto" /></figure>
+</div>
+
+
+
 <p>This approach echoes across the full sweep of Russian military history. During the Cold War, the Soviet Union could rarely match American military technology. But it could &#8212; and did &#8212; build systems designed to ensure that any conflict would end in mutual ruin. Today&#8217;s Russia may be unable to compete with NATO&#8217;s combined conventional forces, but weapons like Poseidon, Burevestnik, and the Perimeter system ensure that it retains the capacity to inflict costs that no adversary can accept.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1672" height="941" loading="lazy" src="/assets/images/uploads/russian-threat-submarines.png" alt="Illustration of submarines beneath frozen water, representing underwater nuclear deterrence" style="width:540px;height:auto" /></figure>
+</div>
 
 
 

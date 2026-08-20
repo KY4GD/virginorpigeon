@@ -105,7 +105,7 @@ image: "/assets/images/uploads/grinding-of-groupthink.webp"
 
 
 
-<li><strong>The spread of <a href="/infowars-gets-a-truth-upgrade/" target="_blank" rel="noopener" data-wpil-monitor-id="190">misinformation</a> and disinformation:</strong> The internet has made it easier than ever to spread misinformation and disinformation. This can be done through fake news websites, social media posts, and other online platforms. The spread of false information can contribute to political polarization by creating a climate of distrust and suspicion.</li>
+<li><strong>The spread of misinformation and disinformation:</strong> The internet has made it easier than ever to spread misinformation and disinformation. This can be done through fake news websites, social media posts, and other online platforms. The spread of false information can contribute to political polarization by creating a climate of distrust and suspicion.</li>
 
 
 
