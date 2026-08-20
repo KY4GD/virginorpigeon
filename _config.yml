@@ -82,6 +82,9 @@ autopages:
 # Music Video menu is hidden for now. Flip to true to bring it back.
 show_music_nav: false
 
+# Gallery menu is visible.
+show_gallery_nav: true
+
 sass:
   style: compressed
 
@@ -95,6 +98,5 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-  - HUMAN_ACTION_REQUIRED.md
   - SITE_AUDIT.md
   - _config.yml.bak
