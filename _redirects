@@ -54,3 +54,7 @@
 
 # --- Tag root referenced in body copy ---
 /memetic-warfare/  /tag/memetic-warfare/  301
+
+# --- Convenience alias: the intuitive /about/ URL -> the real About page ---
+/about/  /an-homage-to-no-reason/  301
+/about   /an-homage-to-no-reason/  301
